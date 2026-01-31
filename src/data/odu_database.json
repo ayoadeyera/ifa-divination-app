@@ -6,7 +6,6 @@
     "rank": 1,
     "binary_code": "11111111",
     "nature": "Open/Light/Expansion",
-    "icon_class": "odu-eji-ogbe",
     "verses": [
       {
         "id": "ogbe-1",
@@ -24,13 +23,12 @@
     "rank": 2,
     "binary_code": "00000000",
     "nature": "Closed/Darkness/Ancestral",
-    "icon_class": "odu-oyeku-meji",
     "verses": [
       {
         "id": "oyeku-1",
-        "chant_yoruba": "Oyeku yeku, oye oye...",
-        "translation": "Darkness swirls, but wisdom prevents death...",
-        "message": "This Odu warns of endings or separation but offers strong protection if the ancestors are appeased.",
+        "chant_yoruba": "Oyeku yeku, oye oye. Oye ni owo, oye ni omo...",
+        "translation": "Darkness swirls, but wisdom prevents death. Wisdom brings wealth, wisdom brings children...",
+        "message": "This Odu warns of endings or separation but offers strong protection if the ancestors are appeased. It marks the end of a cycle.",
         "prescription": "Feed the Elders of the Night (Iyaami) and seek ancestral blessings."
       }
     ]
@@ -42,14 +40,13 @@
     "rank": 3,
     "binary_code": "01100110",
     "nature": "Transformation/Examination",
-    "icon_class": "odu-iwori-meji",
     "verses": [
       {
         "id": "iwori-1",
-        "chant_yoruba": "Iwori, Iwori, a gba a...",
-        "translation": "Iwori cuts through the confusion...",
+        "chant_yoruba": "Iwori, Iwori, a gba a. O gba a lowo olopolo...",
+        "translation": "Iwori cuts through the confusion. He takes it from the hands of the schemer...",
         "message": "A time of careful examination. Things are not what they seem. Look deeper before making a decision.",
-        "prescription": "Use Shea Butter (Ori) to cool the head."
+        "prescription": "Use Shea Butter (Ori) to cool the head and offer to Esu."
       }
     ]
   },
@@ -60,15 +57,4337 @@
     "rank": 4,
     "binary_code": "10011001",
     "nature": "Protection/Barriers/Fertility",
-    "icon_class": "odu-odi-meji",
     "verses": [
       {
         "id": "odi-1",
-        "chant_yoruba": "Odi di, Odi di...",
-        "translation": "The wall stands firm...",
+        "chant_yoruba": "Odi di, Odi di. Odi ni owo, Odi ni omo...",
+        "translation": "The wall stands firm. The wall protects the wealth, the wall protects the children...",
         "message": "This Odu speaks of strong protection and fertility. Your boundaries are secure, but ensure you do not isolate yourself.",
         "prescription": "Offerings to Esu are vital to open the gate."
       }
     ]
+  },
+  {
+    "index": 204,
+    "name": "Irosun Meji",
+    "alias": ["The Sounding Sand"],
+    "rank": 5,
+    "binary_code": "11001100",
+    "nature": "Ancestral Memory/Depression/Caution",
+    "verses": [
+      {
+        "id": "irosun-1",
+        "chant_yoruba": "Irosun, Irosun, a gba a. O gba a lowo aje...",
+        "translation": "Irosun sounds the warning. It saves us from the witches...",
+        "message": "You must be careful of pitfalls and depression. Honor your ancestors to avoid repeating their mistakes.",
+        "prescription": "Offer red cloth and camwood to the ancestors."
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "name": "Owonrin Meji",
+    "alias": ["The Reverse Head"],
+    "rank": 6,
+    "binary_code": "00110011",
+    "nature": "Karma/Chaos/Reversal",
+    "verses": [
+      {
+        "id": "owonrin-1",
+        "chant_yoruba": "Owonrin, Owonrin, a yi pada...",
+        "translation": "Owonrin reverses the evil. The head turns back...",
+        "message": "Be careful of chaos and sudden changes. What goes around comes around. Fix your character (Iwa).",
+        "prescription": "Offer to Esu to avert sudden misfortune."
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "name": "Obara Meji",
+    "alias": ["The Resting King"],
+    "rank": 7,
+    "binary_code": "10001000",
+    "nature": "Wealth/Pride/Indecision",
+    "verses": [
+      {
+        "id": "obara-1",
+        "chant_yoruba": "Obara ni owo, Obara ni ola...",
+        "translation": "Obara brings money, Obara brings honor...",
+        "message": "Prosperity is close, but you must overcome indecision and pride. Do not rest until the work is done.",
+        "prescription": "Offer honey and salt to bring sweetness to life."
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "name": "Okanran Meji",
+    "alias": ["The Trouble Maker"],
+    "rank": 8,
+    "binary_code": "00010001",
+    "nature": "Justice/Struggle/Legal Issues",
+    "verses": [
+      {
+        "id": "okanran-1",
+        "chant_yoruba": "Okanran, Okanran, a gba a...",
+        "translation": "Okanran hits hard...",
+        "message": "You may face a legal battle or a struggle for justice. Speak the truth, even if it is hard.",
+        "prescription": "Offer to Sango for justice and victory."
+      }
+    ]
+  },
+  {
+    "index": 238,
+    "name": "Ogunda Meji",
+    "alias": ["The Iron Cutter"],
+    "rank": 9,
+    "binary_code": "11101110",
+    "nature": "War/Clearing Paths/Surgery",
+    "verses": [
+      {
+        "id": "ogunda-1",
+        "chant_yoruba": "Ogunda, Ogunda, a la ona...",
+        "translation": "Ogunda clears the path...",
+        "message": "The path is blocked, but force and determination will clear it. Victory in conflict is assured.",
+        "prescription": "Offer to Ogun (Iron) to clear obstacles."
+      }
+    ]
+  },
+  {
+    "index": 119,
+    "name": "Osa Meji",
+    "alias": ["The Spirit Wind"],
+    "rank": 10,
+    "binary_code": "01110111",
+    "nature": "Change/Witchcraft/Air",
+    "verses": [
+      {
+        "id": "osa-1",
+        "chant_yoruba": "Osa, Osa, a gba a...",
+        "translation": "Osa blows the wind...",
+        "message": "Sudden change is coming like a wind. Be respectful of powerful women and the spirit world.",
+        "prescription": "Offer fruits and sweets to the Mothers (Iyaami)."
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "name": "Ika Meji",
+    "alias": ["The Controller"],
+    "rank": 11,
+    "binary_code": "01000100",
+    "nature": "Control/Wickedness/Restraint",
+    "verses": [
+      {
+        "id": "ika-1",
+        "chant_yoruba": "Ika, Ika, a gba a...",
+        "translation": "Ika restrains the enemy...",
+        "message": "Someone is trying to control or harm you. You must protect yourself against hidden wickedness.",
+        "prescription": "Offer a rooster to Esu to block evil intentions."
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "name": "Oturupon Meji",
+    "alias": ["The Bearer"],
+    "rank": 12,
+    "binary_code": "00100010",
+    "nature": "Endurance/Childbirth/Health",
+    "verses": [
+      {
+        "id": "oturupon-1",
+        "chant_yoruba": "Oturupon, Oturupon, a gba a...",
+        "translation": "Oturupon bears the burden...",
+        "message": "You must have endurance. This Odu often speaks of pregnancy or carrying a heavy responsibility.",
+        "prescription": "Offer mild foods and prayers for health."
+      }
+    ]
+  },
+  {
+    "index": 187,
+    "name": "Otura Meji",
+    "alias": ["The Peacemaker"],
+    "rank": 13,
+    "binary_code": "10111011",
+    "nature": "Truth/Peace/Intellect",
+    "verses": [
+      {
+        "id": "otura-1",
+        "chant_yoruba": "Otura, Otura, a gba a...",
+        "translation": "Otura brings the truth...",
+        "message": "Peace of mind comes from speaking the truth. Use your intelligence to solve the problem, not force.",
+        "prescription": "Offer white cloth and gin to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 221,
+    "name": "Irete Meji",
+    "alias": ["The Crusher"],
+    "rank": 14,
+    "binary_code": "11011101",
+    "nature": "Pressure/Humility/Earth",
+    "verses": [
+      {
+        "id": "irete-1",
+        "chant_yoruba": "Irete, Irete, a gba a...",
+        "translation": "Irete crushes the rebellion...",
+        "message": "You are under pressure. Humility is your strength. Do not fight a battle you cannot win; bow to conquer.",
+        "prescription": "Offer to the Earth (Ile) and Sonponna."
+      }
+    ]
+  },
+  {
+    "index": 170,
+    "name": "Ose Meji",
+    "alias": ["The Conqueror"],
+    "rank": 15,
+    "binary_code": "10101010",
+    "nature": "Love/Victory/Sweetness",
+    "verses": [
+      {
+        "id": "ose-1",
+        "chant_yoruba": "Ose, Ose, a gba a...",
+        "translation": "Ose brings the victory...",
+        "message": "Victory over enemies through sweetness and charm. Love and money are highlighted.",
+        "prescription": "Offer honey, eggs, and prayers to Osun."
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "name": "Ofun Meji",
+    "alias": ["The Great Giver"],
+    "rank": 16,
+    "binary_code": "01010101",
+    "nature": "Miracles/Creation/Generosity",
+    "verses": [
+      {
+        "id": "ofun-1",
+        "chant_yoruba": "Ofun, Ofun, a gba a...",
+        "translation": "Ofun gives without asking...",
+        "message": "Great miracles are possible. Generosity will open all doors. This is a very powerful and sacred Odu.",
+        "prescription": "Offer white foods (eggs, yam) to Obatala. Avoid red palm oil."
+      }
+    ]
+  },
+  {
+    "index": 240,
+    "name": "Ogbe-Yeku",
+    "alias": ["Ogbe Yeku", "Ogbe Alara"],
+    "rank": 17,
+    "binary_code": "11110000",
+    "nature": "Light into Darkness/Guidance",
+    "verses": [
+      {
+        "id": "ogbe-yeku-1",
+        "chant_yoruba": "Ogbe yeku baba amulu...",
+        "translation": "Ogbe Yeku, the father of mixed Odu...",
+        "message": "Light enters the darkness. This Odu marks the transition from trouble to relief. It is good for longevity.",
+        "prescription": "Offer a mature goat to Esu to secure long life."
+      }
+    ]
+  },
+  {
+    "index": 246,
+    "name": "Ogbe-Iwori",
+    "alias": ["Ogbe Wehin"],
+    "rank": 18,
+    "binary_code": "11110110",
+    "nature": "Clarity/Hindsight/Correction",
+    "verses": [
+      {
+        "id": "ogbe-iwori-1",
+        "chant_yoruba": "Ogbe wehin wo, bi o ba roro...",
+        "translation": "Ogbe looks back, if things are difficult...",
+        "message": "You must look back to understand the present. A mistake from the past needs correcting before you can move forward.",
+        "prescription": "Offer to the Earth (Ile) and appease the ancestors."
+      }
+    ]
+  },
+  {
+    "index": 249,
+    "name": "Ogbe-Odi",
+    "alias": ["Ogbe Di", "Ogbe Kaka"],
+    "rank": 19,
+    "binary_code": "11111001",
+    "nature": "Preparation/Defense/Obstinacy",
+    "verses": [
+      {
+        "id": "ogbe-odi-1",
+        "chant_yoruba": "Ogbe di kaka, o di kaka...",
+        "translation": "Ogbe becomes tight, it becomes tough...",
+        "message": "The situation is tight or difficult. You are being stubborn, or someone is being stubborn against you. Open the road.",
+        "prescription": "Offer snails and shea butter to calm the tension."
+      }
+    ]
+  },
+  {
+    "index": 252,
+    "name": "Ogbe-Irosun",
+    "alias": ["Ogbe Rosun"],
+    "rank": 20,
+    "binary_code": "11111100",
+    "nature": "Vision/Deception/Insight",
+    "verses": [
+      {
+        "id": "ogbe-irosun-1",
+        "chant_yoruba": "Ogbe rosun, o ro oju...",
+        "translation": "Ogbe sees the sleep, he sees the face...",
+        "message": "Do not believe everything you see. There is a deception or an illusion. Trust your inner vision (Ori) more than your eyes.",
+        "prescription": "Offer dried fish and kola nuts to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 243,
+    "name": "Ogbe-Owonrin",
+    "alias": ["Ogbe Hunle"],
+    "rank": 21,
+    "binary_code": "11110011",
+    "nature": "Home/Chaos/Restoration",
+    "verses": [
+      {
+        "id": "ogbe-owonrin-1",
+        "chant_yoruba": "Ogbe hunle, o hunle...",
+        "translation": "Ogbe fixes the house...",
+        "message": "There is chaos in the home or family. You must return home to fix it. Do not travel until the home is settled.",
+        "prescription": "Offer to the family ancestors (Egungun)."
+      }
+    ]
+  },
+  {
+    "index": 248,
+    "name": "Ogbe-Obara",
+    "alias": ["Ogbe Gbarada"],
+    "rank": 22,
+    "binary_code": "11111000",
+    "nature": "Betrayal/Strength/Recovery",
+    "verses": [
+      {
+        "id": "ogbe-obara-1",
+        "chant_yoruba": "Ogbe gbarada, o gba owo...",
+        "translation": "Ogbe performs wonders, he takes the money...",
+        "message": "You are doing all the work while others take the credit. Avoid betrayal by friends. Your strength will eventually be recognized.",
+        "prescription": "Offer a rooster to Esu to expose the truth."
+      }
+    ]
+  },
+  {
+    "index": 241,
+    "name": "Ogbe-Okanran",
+    "alias": ["Ogbe Kanran"],
+    "rank": 23,
+    "binary_code": "11110001",
+    "nature": "Conflict/Truth/Hardship",
+    "verses": [
+      {
+        "id": "ogbe-okanran-1",
+        "chant_yoruba": "Ogbe kanran, o kanran...",
+        "translation": "Ogbe hits trouble...",
+        "message": "You are facing unnecessary trouble because of blunt speech. Be quiet and observe. Silence will win the war.",
+        "prescription": "Offer padlocks and palm oil to Esu."
+      }
+    ]
+  },
+  {
+    "index": 254,
+    "name": "Ogbe-Ogunda",
+    "alias": ["Ogbe Iyonu"],
+    "rank": 24,
+    "binary_code": "11111110",
+    "nature": "Impatience/Violence/Victory",
+    "verses": [
+      {
+        "id": "ogbe-ogunda-1",
+        "chant_yoruba": "Ogbe iyonu, aiye ni iyonu...",
+        "translation": "Ogbe of trouble, life has trouble...",
+        "message": "Do not meet force with force. Use patience. You are angry, but anger will cause you to lose the blessing.",
+        "prescription": "Offer akara (bean cakes) to the Elders."
+      }
+    ]
+  },
+  {
+    "index": 247,
+    "name": "Ogbe-Osa",
+    "alias": ["Ogbe Sa"],
+    "rank": 25,
+    "binary_code": "11110111",
+    "nature": "Deceit/Fear/Escape",
+    "verses": [
+      {
+        "id": "ogbe-osa-1",
+        "chant_yoruba": "Ogbe sa, o sa fun iku...",
+        "translation": "Ogbe runs, he runs from death...",
+        "message": "A friend is acting like an enemy. There is a need to flee from a bad situation before it entraps you.",
+        "prescription": "Offer money and gin to Esu to clear the road for escape."
+      }
+    ]
+  },
+  {
+    "index": 244,
+    "name": "Ogbe-Ika",
+    "alias": ["Ogbe Ka"],
+    "rank": 26,
+    "binary_code": "11110100",
+    "nature": "Confidence/Overcoming/Magic",
+    "verses": [
+      {
+        "id": "ogbe-ika-1",
+        "chant_yoruba": "Ogbe ka, o ka won...",
+        "translation": "Ogbe counts them...",
+        "message": "You are surrounded by people who wish you ill, but they cannot harm you. You have spiritual immunity.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 242,
+    "name": "Ogbe-Oturupon",
+    "alias": ["Ogbe Tomopon"],
+    "rank": 27,
+    "binary_code": "11110010",
+    "nature": "Childbirth/Care/Warning",
+    "verses": [
+      {
+        "id": "ogbe-oturupon-1",
+        "chant_yoruba": "Ogbe tomopon, o to omo...",
+        "translation": "Ogbe guides the child...",
+        "message": "This Odu warns about the safety of a child or a new project. Give it extreme care and attention.",
+        "prescription": "Offer gifts to children."
+      }
+    ]
+  },
+  {
+    "index": 251,
+    "name": "Ogbe-Otura",
+    "alias": ["Ogbe Alara", "Ogbe Tura"],
+    "rank": 28,
+    "binary_code": "11111011",
+    "nature": "Healing/Peace/Relief",
+    "verses": [
+      {
+        "id": "ogbe-otura-1",
+        "chant_yoruba": "Ogbe tura, o tu ara...",
+        "translation": "Ogbe brings relief to the body...",
+        "message": "This is a very good Odu for healing. Physical and spiritual relief is coming. Peace of mind is assured.",
+        "prescription": "Offer coconut water and shea butter to Ori."
+      }
+    ]
+  },
+  {
+    "index": 250,
+    "name": "Ogbe-Irete",
+    "alias": ["Ogbe Ate"],
+    "rank": 29,
+    "binary_code": "11111010",
+    "nature": "Initiation/Humility/Secrets",
+    "verses": [
+      {
+        "id": "ogbe-irete-1",
+        "chant_yoruba": "Ogbe ate, o te won...",
+        "translation": "Ogbe spreads the mat...",
+        "message": "You are entering a new phase of life or initiation. You must be humble and keep your secrets. Do not boast.",
+        "prescription": "Offer pigeons to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 245,
+    "name": "Ogbe-Ose",
+    "alias": ["Ogbe Se"],
+    "rank": 30,
+    "binary_code": "11110101",
+    "nature": "Victory/Holiness/Sanctuary",
+    "verses": [
+      {
+        "id": "ogbe-ose-1",
+        "chant_yoruba": "Ogbe se, o se won...",
+        "translation": "Ogbe conquers them...",
+        "message": "Victory is yours if you maintain spiritual purity. Do not engage in dirty fights; let the spirits fight for you.",
+        "prescription": "Offer water and white kola to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 253,
+    "name": "Ogbe-Ofun",
+    "alias": ["Ogbe Fun"],
+    "rank": 31,
+    "binary_code": "11111101",
+    "nature": "Knowledge/Hidden Danger/Prosperity",
+    "verses": [
+      {
+        "id": "ogbe-ofun-1",
+        "chant_yoruba": "Ogbe fun, o fun won...",
+        "translation": "Ogbe gives to them...",
+        "message": "Prosperity is coming, but be careful of sharing too much information. Someone close is jealous of your rising success.",
+        "prescription": "Offer eggs and chalk (efun) to the Spirits."
+      }
+    ]
+  },
+
+  {
+    "index": 15,
+    "name": "Oyeku-Ogbe",
+    "alias": ["Oyeku Logbe", "Oyeku-Yeku"],
+    "rank": 32,
+    "binary_code": "00001111",
+    "nature": "Sudden Light/Revelation/Protection",
+    "verses": [
+      {
+        "id": "oyeku-ogbe-1",
+        "chant_yoruba": "Oyeku logbe, o ni ki o gbe...",
+        "translation": "Oyeku strikes Ogbe, he says lift it...",
+        "message": "Darkness is lifted by a sudden flash of light. A solution appears unexpectedly. Protection from sudden death is assured.",
+        "prescription": "Offer a black hen and palm oil to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Oyeku-Iwori",
+    "alias": ["Oyeku Ibiri"],
+    "rank": 33,
+    "binary_code": "00000110",
+    "nature": "Spirituality/Confusion/Clarity",
+    "verses": [
+      {
+        "id": "oyeku-iwori-1",
+        "chant_yoruba": "Oyeku ibiri, a pa ibiri...",
+        "translation": "Oyeku turns, we turn with it...",
+        "message": "There is confusion in the spiritual realm. You are seeing ghosts or feeling uneasy. Clarity will come through divination.",
+        "prescription": "Offer to the Egungun (Ancestors) to clear the confusion."
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Oyeku-Odi",
+    "alias": ["Oyeku Di"],
+    "rank": 34,
+    "binary_code": "00001001",
+    "nature": "Blockage/Silence/Secrecy",
+    "verses": [
+      {
+        "id": "oyeku-odi-1",
+        "chant_yoruba": "Oyeku di, o di gbagbe...",
+        "translation": "Oyeku blocks it, it becomes forgotten...",
+        "message": "A secret is being kept from you, or you are blocked by unseen forces. Do not reveal your plans to anyone.",
+        "prescription": "Offer a padlock and black cloth to Esu."
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Oyeku-Irosun",
+    "alias": ["Oyeku Rosun"],
+    "rank": 35,
+    "binary_code": "00001100",
+    "nature": "Menstrual Issues/Red/Ancestral Debt",
+    "verses": [
+      {
+        "id": "oyeku-irosun-1",
+        "chant_yoruba": "Oyeku rosun, o ro eje...",
+        "translation": "Oyeku sees sleep, he sees blood...",
+        "message": "This Odu often speaks of blood issues, menstrual pain, or ancestral debts that need paying. Rest is required.",
+        "prescription": "Offer red cloth and camwood to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "name": "Oyeku-Owonrin",
+    "alias": ["Oyeku Wonrin"],
+    "rank": 36,
+    "binary_code": "00000011",
+    "nature": "Chaos/Reversal/Accidents",
+    "verses": [
+      {
+        "id": "oyeku-owonrin-1",
+        "chant_yoruba": "Oyeku wonrin, o won ara...",
+        "translation": "Oyeku crashes, he crashes the body...",
+        "message": "Beware of accidents or sudden reversals of fortune. Chaos is near. You must calm your head to avoid injury.",
+        "prescription": "Offer a tortoise to Esu to slow down the chaos."
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Oyeku-Obara",
+    "alias": ["Oyeku Palaba"],
+    "rank": 37,
+    "binary_code": "00001000",
+    "nature": "Poverty/Struggle/Resilience",
+    "verses": [
+      {
+        "id": "oyeku-obara-1",
+        "chant_yoruba": "Oyeku palaba, o pa aje...",
+        "translation": "Oyeku is flat, he kills wealth...",
+        "message": "You are feeling the weight of poverty or lack of resources. Resilience is key. The struggle will end if you remain humble.",
+        "prescription": "Offer bananas and honey to restore sweetness."
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "name": "Oyeku-Okanran",
+    "alias": ["Oyeku Kanran"],
+    "rank": 38,
+    "binary_code": "00000001",
+    "nature": "Disputes/Arguments/Silence",
+    "verses": [
+      {
+        "id": "oyeku-okanran-1",
+        "chant_yoruba": "Oyeku kanran, o kan...",
+        "translation": "Oyeku hits, he hits hard...",
+        "message": "Arguments will lead to destruction. Silence is your best weapon right now. Do not engage in court cases.",
+        "prescription": "Offer to Sango to handle the fight for you."
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Oyeku-Ogunda",
+    "alias": ["Oyeku Eguntan"],
+    "rank": 39,
+    "binary_code": "00001110",
+    "nature": "Violence/Surgery/Cutting",
+    "verses": [
+      {
+        "id": "oyeku-ogunda-1",
+        "chant_yoruba": "Oyeku eguntan, o gun...",
+        "translation": "Oyeku finishes the bone, he cuts...",
+        "message": "There is a danger of surgery or cuts. Be careful with metal objects. This Odu also marks the end of a conflict through force.",
+        "prescription": "Offer roasted yam and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Oyeku-Osa",
+    "alias": ["Oyeku Gasa"],
+    "rank": 40,
+    "binary_code": "00000111",
+    "nature": "Flight/Fear/Witchcraft",
+    "verses": [
+      {
+        "id": "oyeku-osa-1",
+        "chant_yoruba": "Oyeku gasa, o sa...",
+        "translation": "Oyeku runs, he runs away...",
+        "message": "Fear is chasing you. You feel hunted by spiritual forces. You must stand your ground or flee to safety.",
+        "prescription": "Offer eggs to the Elders of the Night."
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "name": "Oyeku-Ika",
+    "alias": ["Oyeku Beka"],
+    "rank": 41,
+    "binary_code": "00000100",
+    "nature": "Wickedness/Restraint/Hexes",
+    "verses": [
+      {
+        "id": "oyeku-ika-1",
+        "chant_yoruba": "Oyeku beka, o be...",
+        "translation": "Oyeku begs, he begs...",
+        "message": "Someone is trying to hex you or restrain your progress. Their wickedness will turn back on them.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "name": "Oyeku-Oturupon",
+    "alias": ["Oyeku Batutu"],
+    "rank": 42,
+    "binary_code": "00000010",
+    "nature": "Illness/Cold/Recovery",
+    "verses": [
+      {
+        "id": "oyeku-oturupon-1",
+        "chant_yoruba": "Oyeku batutu, o tutu...",
+        "translation": "Oyeku is cold, he is cold...",
+        "message": "This Odu warns of illness involving coldness or fever. Cover your body and seek warmth. Recovery is possible.",
+        "prescription": "Offer hot corn pap (Ogi) to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Oyeku-Otura",
+    "alias": ["Oyeku Batuye"],
+    "rank": 43,
+    "binary_code": "00001011",
+    "nature": "Joy/Relief/Good News",
+    "verses": [
+      {
+        "id": "oyeku-otura-1",
+        "chant_yoruba": "Oyeku batuye, o ye...",
+        "translation": "Oyeku brings joy, it is fitting...",
+        "message": "Sadness is ending. Joy and relief are coming to the family. Good news will arrive in the morning.",
+        "prescription": "Offer white kola and gin to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Oyeku-Irete",
+    "alias": ["Oyeku-Opote"],
+    "rank": 44,
+    "binary_code": "00001010",
+    "nature": "Plotting/Oppression/Conspiracy",
+    "verses": [
+      {
+        "id": "oyeku-irete-1",
+        "chant_yoruba": "Oyeku opote, o po ote...",
+        "translation": "Oyeku plots conspiracy...",
+        "message": "There is a conspiracy against you at work or home. Be vigilant. Do not trust those who smile too much.",
+        "prescription": "Offer a cockerel to Esu to expose the plot."
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Oyeku-Ose",
+    "alias": ["Oyeku-Oose"],
+    "rank": 45,
+    "binary_code": "00000101",
+    "nature": "Suffering/Endurance/Victory",
+    "verses": [
+      {
+        "id": "oyeku-ose-1",
+        "chant_yoruba": "Oyeku se, o se...",
+        "translation": "Oyeku suffers, he suffers...",
+        "message": "You are suffering for a cause, but victory will come. Your current hardship is a test of faith.",
+        "prescription": "Offer five eggs to Osun."
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Oyeku-Ofun",
+    "alias": ["Oyeku Mafun"],
+    "rank": 46,
+    "binary_code": "00001101",
+    "nature": "Resurrection/Miracle/Ancestry",
+    "verses": [
+      {
+        "id": "oyeku-ofun-1",
+        "chant_yoruba": "Oyeku mafun, o fun...",
+        "translation": "Oyeku breathes, he gives...",
+        "message": "Something thought dead will come back to life. A lost opportunity returns. This is a miracle Odu.",
+        "prescription": "Offer white cloth and yam to the Ancestors."
+      }
+    ]
+  },
+
+
+  {
+    "index": 111,
+    "name": "Iwori-Ogbe",
+    "alias": ["Iwori Bogbe"],
+    "rank": 47,
+    "binary_code": "01101111",
+    "nature": "Consciousness/Beginning/Reflection",
+    "verses": [
+      {
+        "id": "iwori-ogbe-1",
+        "chant_yoruba": "Iwori bogbe, o bo...",
+        "translation": "Iwori sacrifices to Ogbe...",
+        "message": "You are starting a new spiritual journey. You must respect protocols. Do not rush; reflect before you act.",
+        "prescription": "Offer a pigeon and honey to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "name": "Iwori-Oyeku",
+    "alias": ["Iwori Oyeku"],
+    "rank": 48,
+    "binary_code": "01100000",
+    "nature": "Death/Transformation/Spirit",
+    "verses": [
+      {
+        "id": "iwori-oyeku-1",
+        "chant_yoruba": "Iwori yeku, o ye...",
+        "translation": "Iwori understands death...",
+        "message": "This Odu brings messages from the spirit world. You may feel drained. It is time to clear the energy in your home.",
+        "prescription": "Offer charcoal and roasted yam to Esu."
+      }
+    ]
+  },
+  {
+    "index": 105,
+    "name": "Iwori-Odi",
+    "alias": ["Iwori Idin"],
+    "rank": 49,
+    "binary_code": "01101001",
+    "nature": "Obstruction/Traffic/Delay",
+    "verses": [
+      {
+        "id": "iwori-odi-1",
+        "chant_yoruba": "Iwori di, o di...",
+        "translation": "Iwori blocks it...",
+        "message": "There is a blockage or delay in your path. Travel is not advised right now. Sit still and wait for the road to clear.",
+        "prescription": "Offer a snail to Esu to slow down trouble."
+      }
+    ]
+  },
+  {
+    "index": 109,
+    "name": "Iwori-Irosun",
+    "alias": ["Iwori Wosu"],
+    "rank": 50,
+    "binary_code": "01101101",
+    "nature": "Ancestral Burden/Warning",
+    "verses": [
+      {
+        "id": "iwori-irosun-1",
+        "chant_yoruba": "Iwori wosu, o wo...",
+        "translation": "Iwori looks at the Camwood...",
+        "message": "You are carrying a burden that belongs to your ancestors. Do not blame yourself for family patterns. Break the cycle.",
+        "prescription": "Offer red cloth to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 107,
+    "name": "Iwori-Owonrin",
+    "alias": ["Iwori Wonrin"],
+    "rank": 51,
+    "binary_code": "01101011",
+    "nature": "Scarcity/Loss/Recovery",
+    "verses": [
+      {
+        "id": "iwori-owonrin-1",
+        "chant_yoruba": "Iwori wonrin, o won...",
+        "translation": "Iwori is scarce...",
+        "message": "Resources are tight right now. You must budget carefully. Do not lend money, or it will not return.",
+        "prescription": "Offer bananas to Esu."
+      }
+    ]
+  },
+  {
+    "index": 104,
+    "name": "Iwori-Obara",
+    "alias": ["Iwori Obere"],
+    "rank": 52,
+    "binary_code": "01101000",
+    "nature": "Thinking/Worry/Clarity",
+    "verses": [
+      {
+        "id": "iwori-obara-1",
+        "chant_yoruba": "Iwori obere, o bere...",
+        "translation": "Iwori asks questions...",
+        "message": "You are worrying too much. Overthinking will not solve the problem. Take action and the fog will lift.",
+        "prescription": "Offer coconut water to your Head (Ori)."
+      }
+    ]
+  },
+  {
+    "index": 97,
+    "name": "Iwori-Okanran",
+    "alias": ["Iwori Nikan"],
+    "rank": 53,
+    "binary_code": "01100001",
+    "nature": "Isolation/Bravery/Conflict",
+    "verses": [
+      {
+        "id": "iwori-okanran-1",
+        "chant_yoruba": "Iwori nikan, o da nikan...",
+        "translation": "Iwori is alone...",
+        "message": "You feel alone in your struggle. This is a test of bravery. Stand your ground, even if no one supports you.",
+        "prescription": "Offer spicy food to Sango."
+      }
+    ]
+  },
+  {
+    "index": 110,
+    "name": "Iwori-Ogunda",
+    "alias": ["Iwori Eguntan"],
+    "rank": 54,
+    "binary_code": "01101110",
+    "nature": "Anger/Force/Regret",
+    "verses": [
+      {
+        "id": "iwori-ogunda-1",
+        "chant_yoruba": "Iwori gun, o gun...",
+        "translation": "Iwori stabs...",
+        "message": "Anger will lead to regret. Do not use force to solve this issue. Put down the 'weapon' (words or physical) and talk.",
+        "prescription": "Offer palm wine to Ogun to cool him down."
+      }
+    ]
+  },
+  {
+    "index": 103,
+    "name": "Iwori-Osa",
+    "alias": ["Iwori Wosa"],
+    "rank": 55,
+    "binary_code": "01100111",
+    "nature": "Wind/Running/Change",
+    "verses": [
+      {
+        "id": "iwori-osa-1",
+        "chant_yoruba": "Iwori wosa, o sa...",
+        "translation": "Iwori looks at the wind...",
+        "message": "Conditions are changing rapidly. What was true yesterday is not true today. Adapt quickly or be blown away.",
+        "prescription": "Offer feathers to the wind (Esu)."
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "name": "Iwori-Ika",
+    "alias": ["Iwori Ka"],
+    "rank": 56,
+    "binary_code": "01100011",
+    "nature": "Wickedness/Protection/Envy",
+    "verses": [
+      {
+        "id": "iwori-ika-1",
+        "chant_yoruba": "Iwori ka, o ka...",
+        "translation": "Iwori surrounds...",
+        "message": "People are envious of you. They smile but hide knives. Protect yourself from the 'evil eye'.",
+        "prescription": "Offer a rooster to Esu for protection."
+      }
+    ]
+  },
+  {
+    "index": 108,
+    "name": "Iwori-Oturupon",
+    "alias": ["Iwori Tupon"],
+    "rank": 57,
+    "binary_code": "01101100",
+    "nature": "Disease/Care/Persistence",
+    "verses": [
+      {
+        "id": "iwori-oturupon-1",
+        "chant_yoruba": "Iwori tupon, o ru...",
+        "translation": "Iwori carries the basket...",
+        "message": "Health issues may persist if not treated. Do not ignore minor symptoms. Persistence is required to heal.",
+        "prescription": "Offer healing herbs to Osanyin."
+      }
+    ]
+  },
+  {
+    "index": 101,
+    "name": "Iwori-Otura",
+    "alias": ["Iwori Wotura"],
+    "rank": 58,
+    "binary_code": "01100101",
+    "nature": "Truth/Insight/Family",
+    "verses": [
+      {
+        "id": "iwori-otura-1",
+        "chant_yoruba": "Iwori wotura, o tu...",
+        "translation": "Iwori looks at truth...",
+        "message": "The truth will liberate you. A family matter requires honest conversation. Lies will only make it worse.",
+        "prescription": "Offer white kola nuts to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 106,
+    "name": "Iwori-Irete",
+    "alias": ["Iwori Ate"],
+    "rank": 59,
+    "binary_code": "01101010",
+    "nature": "Humility/Deception/Step",
+    "verses": [
+      {
+        "id": "iwori-irete-1",
+        "chant_yoruba": "Iwori ate, o te...",
+        "translation": "Iwori steps on it...",
+        "message": "Watch your step. You are walking into a trap set by arrogance. Be humble and check for pitfalls.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 100, 
+    "name": "Iwori-Ofun",
+    "alias": ["Iwori Wofun"],
+    "rank": 60,
+    "binary_code": "01100100",
+    "nature": "Miracle/Generosity/White",
+    "verses": [
+      {
+        "id": "iwori-ofun-1",
+        "chant_yoruba": "Iwori wofun, o fun...",
+        "translation": "Iwori sees whiteness...",
+        "message": "A miracle is coming. Keep your environment clean and white. Generosity will bring unexpected rewards.",
+        "prescription": "Offer white chalk (Efun) and water to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 98, 
+    "name": "Iwori-Ose",
+    "alias": ["Iwori Wose"],
+    "rank": 61,
+    "binary_code": "01100010", 
+    "nature": "Victory/Beauty/Art",
+    "verses": [
+      {
+        "id": "iwori-ose-1",
+        "chant_yoruba": "Iwori wose, o se...",
+        "translation": "Iwori looks at beauty...",
+        "message": "You will find victory through beauty or art. Decorate your surroundings. Attraction is your power now.",
+        "prescription": "Offer sweets and brass to Osun."
+      }
+    ]
+  },
+
+
+
+
+  {
+    "index": 159,
+    "name": "Odi-Ogbe",
+    "alias": ["Idin Gbe"],
+    "rank": 62,
+    "binary_code": "10011111",
+    "nature": "Betrayal/Backstabbing/Return",
+    "verses": [
+      {
+        "id": "odi-ogbe-1",
+        "chant_yoruba": "Idin gbe, o gbe...",
+        "translation": "Idin carries it...",
+        "message": "Do not turn your back on your enemy. There is a risk of betrayal or theft while you are not looking. Be vigilant.",
+        "prescription": "Offer a mirror and a rooster to Esu."
+      }
+    ]
+  },
+  {
+    "index": 144,
+    "name": "Odi-Oyeku",
+    "alias": ["Idin Yeku"],
+    "rank": 63,
+    "binary_code": "10010000",
+    "nature": "Illness/End of Suffering/Closure",
+    "verses": [
+      {
+        "id": "odi-oyeku-1",
+        "chant_yoruba": "Idin yeku, o ye iku...",
+        "translation": "Idin avoids death...",
+        "message": "A long-standing illness or blockage is coming to an end. The suffering has been walled off. Recovery is near.",
+        "prescription": "Offer clothes of the sick person to Esu."
+      }
+    ]
+  },
+  {
+    "index": 150,
+    "name": "Odi-Iwori",
+    "alias": ["Idin Awo"],
+    "rank": 64,
+    "binary_code": "10010110",
+    "nature": "Secrets/Investigation/Spirit",
+    "verses": [
+      {
+        "id": "odi-iwori-1",
+        "chant_yoruba": "Idin awo, awo ni...",
+        "translation": "Idin of the secret...",
+        "message": "You are looking for a secret that is hidden behind a wall. Investigation is needed. Spiritual sight is blocked.",
+        "prescription": "Offer clean water and eyes of a snail to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "name": "Odi-Irosun",
+    "alias": ["Idin Rosun"],
+    "rank": 65,
+    "binary_code": "10011101",
+    "nature": "Dreams/Ancestors/Delay",
+    "verses": [
+      {
+        "id": "odi-irosun-1",
+        "chant_yoruba": "Idin rosun, o sun...",
+        "translation": "Idin sleeps...",
+        "message": "You are dreaming but not acting. Laziness or delay is blocking your success. Wake up and work.",
+        "prescription": "Offer coffee or bitter kola to wake up your Ori."
+      }
+    ]
+  },
+  {
+    "index": 155,
+    "name": "Odi-Owonrin",
+    "alias": ["Idin Owonrin"],
+    "rank": 66,
+    "binary_code": "10011011",
+    "nature": "Scarcity/Hunger/Protection",
+    "verses": [
+      {
+        "id": "odi-owonrin-1",
+        "chant_yoruba": "Idin wonrin, o won...",
+        "translation": "Idin is scarce...",
+        "message": "There is a hunger or lack in the house. The wall prevents provisions from entering. You must open the gate.",
+        "prescription": "Offer food to the poor and to Esu."
+      }
+    ]
+  },
+  {
+    "index": 152,
+    "name": "Odi-Obara",
+    "alias": ["Idin Bara"],
+    "rank": 67,
+    "binary_code": "10011000",
+    "nature": "Indecision/Failed Promises",
+    "verses": [
+      {
+        "id": "odi-obara-1",
+        "chant_yoruba": "Idin bara, o ba...",
+        "translation": "Idin meets...",
+        "message": "You are sitting on the fence. Indecision is your enemy. You promised something you have not delivered.",
+        "prescription": "Fulfill your promises to avoid blockage."
+      }
+    ]
+  },
+  {
+    "index": 145,
+    "name": "Odi-Okanran",
+    "alias": ["Idin Kanran"],
+    "rank": 68,
+    "binary_code": "10010001",
+    "nature": "Stubbornness/Arguments/Hardship",
+    "verses": [
+      {
+        "id": "odi-okanran-1",
+        "chant_yoruba": "Idin kanran, o kan...",
+        "translation": "Idin touches trouble...",
+        "message": "You are being too stubborn. The wall you built to protect yourself is now a prison. Break down the wall of pride.",
+        "prescription": "Offer a thunderbolt (stone) to Sango."
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "name": "Odi-Ogunda",
+    "alias": ["Idin Eguntan"],
+    "rank": 69,
+    "binary_code": "10011110",
+    "nature": "Violence/Surgery/Defense",
+    "verses": [
+      {
+        "id": "odi-ogunda-1",
+        "chant_yoruba": "Idin gun, o gun...",
+        "translation": "Idin pierces...",
+        "message": "Defensive violence may be necessary. Someone is trying to break your wall. Stand firm and fight back.",
+        "prescription": "Offer iron and roasted yam to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 151,
+    "name": "Odi-Osa",
+    "alias": ["Idin Sa"],
+    "rank": 70,
+    "binary_code": "10010111",
+    "nature": "Escape/Magic/Wind",
+    "verses": [
+      {
+        "id": "odi-osa-1",
+        "chant_yoruba": "Idin sa, o sa...",
+        "translation": "Idin runs...",
+        "message": "The blockage is blown away by the wind. If you are feeling trapped, an opportunity to escape is coming.",
+        "prescription": "Offer to Oya (Wind) to remove barriers."
+      }
+    ]
+  },
+  {
+    "index": 147,
+    "name": "Odi-Ika",
+    "alias": ["Idin Ka"],
+    "rank": 71,
+    "binary_code": "10010011",
+    "nature": "Wickedness/Restraint/Jail",
+    "verses": [
+      {
+        "id": "odi-ika-1",
+        "chant_yoruba": "Idin ka, o ka...",
+        "translation": "Idin restrains...",
+        "message": "There is a danger of physical restraint or jail. Do not break the law. Someone is trying to tie you down.",
+        "prescription": "Offer a chain to Esu and then throw it away."
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "name": "Odi-Oturupon",
+    "alias": ["Idin Turupon"],
+    "rank": 72,
+    "binary_code": "10011100",
+    "nature": "Pregnancy/Burden/Endurance",
+    "verses": [
+      {
+        "id": "odi-oturupon-1",
+        "chant_yoruba": "Idin tupon, o ru...",
+        "translation": "Idin carries...",
+        "message": "This is the Odu of the womb. It speaks of carrying a child or a heavy burden safely to term. Protection is strong.",
+        "prescription": "Offer eggs and soft yam to Osun."
+      }
+    ]
+  },
+  {
+    "index": 149,
+    "name": "Odi-Otura",
+    "alias": ["Idin Tura"],
+    "rank": 73,
+    "binary_code": "10010101",
+    "nature": "Peace/Freedom/Release",
+    "verses": [
+      {
+        "id": "odi-otura-1",
+        "chant_yoruba": "Idin tura, o tu...",
+        "translation": "Idin relaxes...",
+        "message": "The blockage is removed peacefully. Tension is released. You will find relief from the pressure you have been feeling.",
+        "prescription": "Offer white kola and water to Esu."
+      }
+    ]
+  },
+  {
+    "index": 154,
+    "name": "Odi-Irete",
+    "alias": ["Idin Ate"],
+    "rank": 74,
+    "binary_code": "10011010",
+    "nature": "Humility/Crushing/Foundation",
+    "verses": [
+      {
+        "id": "odi-irete-1",
+        "chant_yoruba": "Idin te, o te...",
+        "translation": "Idin presses...",
+        "message": "You must lower your defenses to win. Being too rigid will cause you to break. Establish a new foundation.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 146,
+    "name": "Odi-Ose",
+    "alias": ["Idin Se"],
+    "rank": 75,
+    "binary_code": "10010010",
+    "nature": "Love/Victory/Fertility",
+    "verses": [
+      {
+        "id": "odi-ose-1",
+        "chant_yoruba": "Idin se, o se...",
+        "translation": "Idin conquers...",
+        "message": "Fertility and love are highlighted. The 'blockage' was actually a protection for something growing inside. Victory in love.",
+        "prescription": "Offer sweets and perfume to Osun."
+      }
+    ]
+  },
+  {
+    "index": 148,
+    "name": "Odi-Ofun",
+    "alias": ["Idin Fun"],
+    "rank": 76,
+    "binary_code": "10010100",
+    "nature": "Miracle/Wealth/Greatness",
+    "verses": [
+      {
+        "id": "odi-ofun-1",
+        "chant_yoruba": "Idin fun, o fun...",
+        "translation": "Idin gives...",
+        "message": "A great wealth is hidden behind the wall. A miracle is coming that will break all barriers. Be generous.",
+        "prescription": "Offer white pigeons to Obatala."
+      }
+    ]
+  },
+
+{
+    "index": 207,
+    "name": "Irosun-Ogbe",
+    "alias": ["Irosun Agbe"],
+    "rank": 77,
+    "binary_code": "11001111",
+    "nature": "Support/Giving/Responsibility",
+    "verses": [
+      {
+        "id": "irosun-ogbe-1",
+        "chant_yoruba": "Irosun agbe, o gbe...",
+        "translation": "Irosun supports...",
+        "message": "You are carrying a heavy load for others. While noble, ensure you do not collapse under the weight. Support is reciprocal.",
+        "prescription": "Offer a woven basket and yam to Esu."
+      }
+    ]
+  },
+  {
+    "index": 192,
+    "name": "Irosun-Oyeku",
+    "alias": ["Irosun Yeku"],
+    "rank": 78,
+    "binary_code": "11000000",
+    "nature": "Ancestral Debt/Endings/Sunset",
+    "verses": [
+      {
+        "id": "irosun-oyeku-1",
+        "chant_yoruba": "Irosun yeku, o ye iku...",
+        "translation": "Irosun honors the dead...",
+        "message": "The sun is setting on a problem. Honor the ancestors to ensure a peaceful transition. A cycle is closing.",
+        "prescription": "Offer red cloth and a lamp to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 198,
+    "name": "Irosun-Iwori",
+    "alias": ["Irosun Awo"],
+    "rank": 79,
+    "binary_code": "11000110",
+    "nature": "Mental Stress/Delusion/Sound",
+    "verses": [
+      {
+        "id": "irosun-iwori-1",
+        "chant_yoruba": "Irosun awo, o wo...",
+        "translation": "Irosun crashes...",
+        "message": "You are hearing things that are not there, or worrying about rumors. Clear your mind. The noise is a distraction.",
+        "prescription": "Offer a bell to Esu to clear the sound."
+      }
+    ]
+  },
+  {
+    "index": 201,
+    "name": "Irosun-Odi",
+    "alias": ["Irosun Din"],
+    "rank": 80,
+    "binary_code": "11001001",
+    "nature": "Blocked Vision/Delay/Patience",
+    "verses": [
+      {
+        "id": "irosun-odi-1",
+        "chant_yoruba": "Irosun din, o din...",
+        "translation": "Irosun blocks...",
+        "message": "Your vision is blocked by a wall. Do not rush forward, or you will hit it. Patience is the only key right now.",
+        "prescription": "Offer snails to Obatala for patience."
+      }
+    ]
+  },
+  {
+    "index": 195,
+    "name": "Irosun-Owonrin",
+    "alias": ["Irosun Elerin"],
+    "rank": 81,
+    "binary_code": "11000011",
+    "nature": "Accidents/Blood/Chaos",
+    "verses": [
+      {
+        "id": "irosun-owonrin-1",
+        "chant_yoruba": "Irosun elerin, o rin...",
+        "translation": "Irosun walks...",
+        "message": "Be careful of accidents involving the feet or walking. Chaos may come from a journey. Watch your step.",
+        "prescription": "Offer a pair of shoes or sandals to Esu."
+      }
+    ]
+  },
+  {
+    "index": 200,
+    "name": "Irosun-Obara",
+    "alias": ["Irosun Obara"],
+    "rank": 82,
+    "binary_code": "11001000",
+    "nature": "Wealth/Deception/Disappointment",
+    "verses": [
+      {
+        "id": "irosun-obara-1",
+        "chant_yoruba": "Irosun bara, o ba...",
+        "translation": "Irosun meets...",
+        "message": "You are expecting money or help that may not arrive. The promise is empty. Rely on your own strength.",
+        "prescription": "Offer salt and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 193,
+    "name": "Irosun-Okanran",
+    "alias": ["Irosun Okere"],
+    "rank": 83,
+    "binary_code": "11000001",
+    "nature": "Heartbreak/Struggle/Emotions",
+    "verses": [
+      {
+        "id": "irosun-okanran-1",
+        "chant_yoruba": "Irosun okere, o kere...",
+        "translation": "Irosun is small...",
+        "message": "Emotional pain is present. You feel unappreciated. Do not let bitterness take root in your heart.",
+        "prescription": "Offer sweets and honey to Osun to heal the heart."
+      }
+    ]
+  },
+  {
+    "index": 206,
+    "name": "Irosun-Ogunda",
+    "alias": ["Irosun Geda"],
+    "rank": 84,
+    "binary_code": "11001110",
+    "nature": "Menstrual Disorder/Cutting/Cycles",
+    "verses": [
+      {
+        "id": "irosun-ogunda-1",
+        "chant_yoruba": "Irosun geda, o ge...",
+        "translation": "Irosun cuts...",
+        "message": "This Odu is specific to women's health and cycles. It also warns of cutting ties abruptly. Healing is needed.",
+        "prescription": "Offer red cloth and gin to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 199,
+    "name": "Irosun-Osa",
+    "alias": ["Irosun Sa"],
+    "rank": 85,
+    "binary_code": "11000111",
+    "nature": "Depression/Wind/Running",
+    "verses": [
+      {
+        "id": "irosun-osa-1",
+        "chant_yoruba": "Irosun sa, o sa...",
+        "translation": "Irosun runs...",
+        "message": "Depression is chasing you like a dark wind. You want to run away from everything. Seek community support.",
+        "prescription": "Offer feathers to the wind (Esu) to blow away sadness."
+      }
+    ]
+  },
+  {
+    "index": 196,
+    "name": "Irosun-Ika",
+    "alias": ["Irosun Ka"],
+    "rank": 86,
+    "binary_code": "11000100",
+    "nature": "Wickedness/Night/Protection",
+    "verses": [
+      {
+        "id": "irosun-ika-1",
+        "chant_yoruba": "Irosun ka, o ka...",
+        "translation": "Irosun folds...",
+        "message": "Wicked people are working at night against you. You must protect your sleep and your dreams.",
+        "prescription": "Offer a candle and water at your bedside."
+      }
+    ]
+  },
+  {
+    "index": 194,
+    "name": "Irosun-Oturupon",
+    "alias": ["Irosun Tutu"],
+    "rank": 87,
+    "binary_code": "11000010",
+    "nature": "Childbirth/Blood/Health",
+    "verses": [
+      {
+        "id": "irosun-oturupon-1",
+        "chant_yoruba": "Irosun tutu, o tutu...",
+        "translation": "Irosun is cold...",
+        "message": "A child or a pregnancy needs protection. There is a risk of bleeding or weakness. Warmth and care are required.",
+        "prescription": "Offer a hen to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 203,
+    "name": "Irosun-Otura",
+    "alias": ["Irosun Tura"],
+    "rank": 88,
+    "binary_code": "11001011",
+    "nature": "Relief/Cleansing/Peace",
+    "verses": [
+      {
+        "id": "irosun-otura-1",
+        "chant_yoruba": "Irosun tura, o tu...",
+        "translation": "Irosun calms...",
+        "message": "The red anxiety washes away. Peace returns to the mind. Ancestral blessings bring relief.",
+        "prescription": "Offer white cloth to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 205,
+    "name": "Irosun-Irete",
+    "alias": ["Irosun Ate"],
+    "rank": 89,
+    "binary_code": "11001101",
+    "nature": "Humility/Ancestry/History",
+    "verses": [
+      {
+        "id": "irosun-irete-1",
+        "chant_yoruba": "Irosun ate, o te...",
+        "translation": "Irosun steps...",
+        "message": "You are walking in the footsteps of your ancestors. Do not deviate from the family tradition. Respect the past.",
+        "prescription": "Offer libation to the earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 202,
+    "name": "Irosun-Ose",
+    "alias": ["Irosun Se"],
+    "rank": 90,
+    "binary_code": "11001010",
+    "nature": "Beauty/Attraction/Blood",
+    "verses": [
+      {
+        "id": "irosun-ose-1",
+        "chant_yoruba": "Irosun se, o se...",
+        "translation": "Irosun conquers...",
+        "message": "Beauty may hide danger. Be careful of attraction that leads to pain. Not all that glitters is gold.",
+        "prescription": "Offer honey to Osun but taste it first."
+      }
+    ]
+  },
+  {
+    "index": 197,
+    "name": "Irosun-Ofun",
+    "alias": ["Irosun Fun"],
+    "rank": 91,
+    "binary_code": "11000101",
+    "nature": "Generosity/Miracle/Red & White",
+    "verses": [
+      {
+        "id": "irosun-ofun-1",
+        "chant_yoruba": "Irosun fun, o fun...",
+        "translation": "Irosun gives...",
+        "message": "A mix of suffering and joy. The red (blood/struggle) turns into white (peace/miracle). Keep faith.",
+        "prescription": "Offer white eggs and red palm oil to Esu."
+      }
+    ]
+  },
+
+
+  {
+    "index": 63,
+    "name": "Owonrin-Ogbe",
+    "alias": ["Owonrin Sogbe"],
+    "rank": 92,
+    "binary_code": "00111111",
+    "nature": "Exchange/Giving/Reversal",
+    "verses": [
+      {
+        "id": "owonrin-ogbe-1",
+        "chant_yoruba": "Owonrin sogbe, o so...",
+        "translation": "Owonrin throws Ogbe...",
+        "message": "To get what you want, you must give something up. An exchange is necessary. Do not be stingy, or you will lose everything.",
+        "prescription": "Offer clothes or money to the poor."
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "name": "Owonrin-Oyeku",
+    "alias": ["Owonrin Yeku"],
+    "rank": 93,
+    "binary_code": "00110000",
+    "nature": "Death Reversal/Healing/Ancestry",
+    "verses": [
+      {
+        "id": "owonrin-oyeku-1",
+        "chant_yoruba": "Owonrin yeku, o ye iku...",
+        "translation": "Owonrin averts death...",
+        "message": "A dangerous situation is reversed. Death or illness passed over you. Thank your ancestors for their intervention.",
+        "prescription": "Offer a rooster to Esu and food to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "name": "Owonrin-Iwori",
+    "alias": ["Owonrin Iwori"],
+    "rank": 94,
+    "binary_code": "00110110",
+    "nature": "Confusion/Transformation/Weather",
+    "verses": [
+      {
+        "id": "owonrin-iwori-1",
+        "chant_yoruba": "Owonrin iwori, o wo...",
+        "translation": "Owonrin looks...",
+        "message": "The weather of your life is changing. Confusion is clearing up. What looked like a disaster turns into a blessing.",
+        "prescription": "Offer corn and water to Esu."
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "name": "Owonrin-Odi",
+    "alias": ["Owonrin Odi"],
+    "rank": 95,
+    "binary_code": "00111001",
+    "nature": "Blockage/Obstinacy/Return",
+    "verses": [
+      {
+        "id": "owonrin-odi-1",
+        "chant_yoruba": "Owonrin di, o di...",
+        "translation": "Owonrin blocks...",
+        "message": "You are blocked because you refused to listen. You must return to the source of the problem to fix it.",
+        "prescription": "Offer a padlock and key to Esu."
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "name": "Owonrin-Irosun",
+    "alias": ["Owonrin Rosun"],
+    "rank": 96,
+    "binary_code": "00111100",
+    "nature": "Blood/Karma/Warning",
+    "verses": [
+      {
+        "id": "owonrin-irosun-1",
+        "chant_yoruba": "Owonrin rosun, o ro...",
+        "translation": "Owonrin drips...",
+        "message": "Be careful of accidents involving blood. Past actions are coming back to haunt you. Clean your karma.",
+        "prescription": "Offer red cloth and a cock to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "name": "Owonrin-Obara",
+    "alias": ["Owonrin Palaba"],
+    "rank": 97,
+    "binary_code": "00111000",
+    "nature": "Poverty/Struggle/Recovery",
+    "verses": [
+      {
+        "id": "owonrin-obara-1",
+        "chant_yoruba": "Owonrin palaba, o pa...",
+        "translation": "Owonrin is flat...",
+        "message": "You are experiencing a reversal of wealth. Money is tight. Hard work will restore your balance, but do not borrow.",
+        "prescription": "Offer bananas and honey to Ori."
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "name": "Owonrin-Okanran",
+    "alias": ["Owonrin Kanran"],
+    "rank": 98,
+    "binary_code": "00110001",
+    "nature": "Conflict/Justice/Reversal",
+    "verses": [
+      {
+        "id": "owonrin-okanran-1",
+        "chant_yoruba": "Owonrin kanran, o kan...",
+        "translation": "Owonrin hits...",
+        "message": "A court case or argument turns around. The accuser becomes the accused. Justice is swift.",
+        "prescription": "Offer to Sango for victory in legal matters."
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "name": "Owonrin-Ogunda",
+    "alias": ["Owonrin Eguntan"],
+    "rank": 99,
+    "binary_code": "00111110",
+    "nature": "Violence/Accident/Surgery",
+    "verses": [
+      {
+        "id": "owonrin-ogunda-1",
+        "chant_yoruba": "Owonrin gun, o gun...",
+        "translation": "Owonrin stabs...",
+        "message": "Danger of metal or machinery. A sudden conflict may arise. Use your head to avoid a physical fight.",
+        "prescription": "Offer roasted yam and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "name": "Owonrin-Osa",
+    "alias": ["Owonrin Wosa"],
+    "rank": 100,
+    "binary_code": "00110111",
+    "nature": "Wind/Change/Witchcraft",
+    "verses": [
+      {
+        "id": "owonrin-osa-1",
+        "chant_yoruba": "Owonrin wosa, o sa...",
+        "translation": "Owonrin flees...",
+        "message": "The wind of change is blowing things upside down. Spiritual attacks are reversed back to the sender.",
+        "prescription": "Offer eggs and breeze (feathers) to the Mothers."
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "name": "Owonrin-Ika",
+    "alias": ["Owonrin Ka"],
+    "rank": 101,
+    "binary_code": "00110100",
+    "nature": "Wickedness/Karma/Restraint",
+    "verses": [
+      {
+        "id": "owonrin-ika-1",
+        "chant_yoruba": "Owonrin ka, o ka...",
+        "translation": "Owonrin folds...",
+        "message": "You reap what you sow. If you have done evil, it returns. If you are good, protection surrounds you.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "name": "Owonrin-Oturupon",
+    "alias": ["Owonrin Batutu"],
+    "rank": 102,
+    "binary_code": "00110010",
+    "nature": "Illness/Cold/Motherhood",
+    "verses": [
+      {
+        "id": "owonrin-oturupon-1",
+        "chant_yoruba": "Owonrin batutu, o tutu...",
+        "translation": "Owonrin is cold...",
+        "message": "A child is sick or there is a cold illness in the house. Warmth and motherly care are needed to reverse it.",
+        "prescription": "Offer soft yam and palm oil to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "name": "Owonrin-Otura",
+    "alias": ["Owonrin Tura"],
+    "rank": 103,
+    "binary_code": "00111011",
+    "nature": "Relief/Peace/Mind",
+    "verses": [
+      {
+        "id": "owonrin-otura-1",
+        "chant_yoruba": "Owonrin tura, o tu...",
+        "translation": "Owonrin calms...",
+        "message": "Mental chaos is settled. Peace of mind returns after a period of turmoil. Listen to advice.",
+        "prescription": "Offer white kola and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "name": "Owonrin-Irete",
+    "alias": ["Owonrin Ate"],
+    "rank": 104,
+    "binary_code": "00111101",
+    "nature": "Humility/Loss/Lesson",
+    "verses": [
+      {
+        "id": "owonrin-irete-1",
+        "chant_yoruba": "Owonrin ate, o te...",
+        "translation": "Owonrin steps...",
+        "message": "You stepped into a hole because you were looking too high. Humility is forced upon you. Learn the lesson.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "name": "Owonrin-Ose",
+    "alias": ["Owonrin Wose"],
+    "rank": 105,
+    "binary_code": "00111010",
+    "nature": "Victory/Attraction/Reversal",
+    "verses": [
+      {
+        "id": "owonrin-ose-1",
+        "chant_yoruba": "Owonrin wose, o se...",
+        "translation": "Owonrin adorns...",
+        "message": "Bad luck is turned into victory through charm and beauty. A relationship takes a surprising turn.",
+        "prescription": "Offer sweets and brass to Osun."
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "name": "Owonrin-Ofun",
+    "alias": ["Owonrin Wofun"],
+    "rank": 106,
+    "binary_code": "00110101",
+    "nature": "Miracle/Sudden Wealth/Giving",
+    "verses": [
+      {
+        "id": "owonrin-ofun-1",
+        "chant_yoruba": "Owonrin wofun, o fun...",
+        "translation": "Owonrin gives...",
+        "message": "Sudden wealth or a miracle reverses a bad situation. Be generous when the blessing arrives.",
+        "prescription": "Offer white food (eggs/yam) to Obatala."
+      }
+    ]
+  },
+
+
+
+  {
+    "index": 143,
+    "name": "Obara-Ogbe",
+    "alias": ["Obara Bogbe"],
+    "rank": 107,
+    "binary_code": "10001111",
+    "nature": "Respect/Clarity/Awakening",
+    "verses": [
+      {
+        "id": "obara-ogbe-1",
+        "chant_yoruba": "Obara bogbe, o bo...",
+        "translation": "Obara respects Ogbe...",
+        "message": "Respect your elders and those who came before you. Your wealth is tied to how you treat your superiors. Clarity is coming.",
+        "prescription": "Offer a pigeon to your Head (Ori) for clear vision."
+      }
+    ]
+  },
+  {
+    "index": 128,
+    "name": "Obara-Oyeku",
+    "alias": ["Obara Yeku"],
+    "rank": 108,
+    "binary_code": "10000000",
+    "nature": "End of Poverty/Ancestral Wealth",
+    "verses": [
+      {
+        "id": "obara-oyeku-1",
+        "chant_yoruba": "Obara yeku, o ye iku...",
+        "translation": "Obara understands death...",
+        "message": "The period of poverty or stagnation is dying. Ancestral wealth or a forgotten inheritance is revealed. Sleep well to receive the message.",
+        "prescription": "Offer food to the Egungun (Ancestors)."
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "name": "Obara-Iwori",
+    "alias": ["Obara Nikosi"],
+    "rank": 109,
+    "binary_code": "10000110",
+    "nature": "Business/Sales/Confusion",
+    "verses": [
+      {
+        "id": "obara-iwori-1",
+        "chant_yoruba": "Obara iwori, o wo...",
+        "translation": "Obara looks...",
+        "message": "Good for commerce and selling. If business has been slow, it will pick up. Clear the confusion in your accounting.",
+        "prescription": "Offer honey and corn to Esu to attract customers."
+      }
+    ]
+  },
+  {
+    "index": 137,
+    "name": "Obara-Odi",
+    "alias": ["Obara Dini"],
+    "rank": 110,
+    "binary_code": "10001001",
+    "nature": "Blockage/Debt/Binding",
+    "verses": [
+      {
+        "id": "obara-odi-1",
+        "chant_yoruba": "Obara di, o di...",
+        "translation": "Obara blocks...",
+        "message": "You are blocked by debt or an unfulfilled promise. You feel tied down. Pay what you owe to move forward.",
+        "prescription": "Offer a chain or padlock to Esu, then break it."
+      }
+    ]
+  },
+  {
+    "index": 140,
+    "name": "Obara-Irosun",
+    "alias": ["Obara Kosun"],
+    "rank": 111,
+    "binary_code": "10001100",
+    "nature": "Deception/False Hope/Blood",
+    "verses": [
+      {
+        "id": "obara-irosun-1",
+        "chant_yoruba": "Obara rosun, o ro...",
+        "translation": "Obara drips...",
+        "message": "Do not chase 'fool's gold.' What looks like a great opportunity is a deception. Watch out for blood pressure issues.",
+        "prescription": "Offer red cloth to the Spirits."
+      }
+    ]
+  },
+  {
+    "index": 131,
+    "name": "Obara-Owonrin",
+    "alias": ["Obara Wonrin"],
+    "rank": 112,
+    "binary_code": "10000011",
+    "nature": "Chaos/Reversal/Injury",
+    "verses": [
+      {
+        "id": "obara-owonrin-1",
+        "chant_yoruba": "Obara wonrin, o won...",
+        "translation": "Obara is scarce...",
+        "message": "Chaos in the head leads to chaos in the pocket. A sudden reversal of fortune is possible. Stay calm.",
+        "prescription": "Offer a tortoise to Esu to stabilize the situation."
+      }
+    ]
+  },
+  {
+    "index": 129,
+    "name": "Obara-Okanran",
+    "alias": ["Obara Kanran"],
+    "rank": 113,
+    "binary_code": "10000001",
+    "nature": "Arguments/Pride/Fall",
+    "verses": [
+      {
+        "id": "obara-okanran-1",
+        "chant_yoruba": "Obara kanran, o kan...",
+        "translation": "Obara hits...",
+        "message": "Your ego is writing checks your body cannot cash. Arguments will lead to a fall. Be humble or be humbled.",
+        "prescription": "Offer a rooster to Sango."
+      }
+    ]
+  },
+  {
+    "index": 142,
+    "name": "Obara-Ogunda",
+    "alias": ["Obara Eguntan"],
+    "rank": 114,
+    "binary_code": "10001110",
+    "nature": "Force/Victory/Surgery",
+    "verses": [
+      {
+        "id": "obara-ogunda-1",
+        "chant_yoruba": "Obara gun, o gun...",
+        "translation": "Obara stabs...",
+        "message": "Victory comes through force and determination. You must cut ties with lazy people. A warning about sharp objects.",
+        "prescription": "Offer roasted yam and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 135,
+    "name": "Obara-Osa",
+    "alias": ["Obara Sa"],
+    "rank": 115,
+    "binary_code": "10000111",
+    "nature": "Running/Fraud/Wind",
+    "verses": [
+      {
+        "id": "obara-osa-1",
+        "chant_yoruba": "Obara sa, o sa...",
+        "translation": "Obara runs...",
+        "message": "Someone is planning to run away with your money or trust. Fraud is indicated. Secure your assets.",
+        "prescription": "Offer to Esu to catch the thief."
+      }
+    ]
+  },
+  {
+    "index": 132,
+    "name": "Obara-Ika",
+    "alias": ["Obara Ka"],
+    "rank": 116,
+    "binary_code": "10000100",
+    "nature": "Wickedness/Restraint/Envy",
+    "verses": [
+      {
+        "id": "obara-ika-1",
+        "chant_yoruba": "Obara ka, o ka...",
+        "translation": "Obara restrains...",
+        "message": "Enemies are envious of your potential wealth. They are trying to circle you. Break the circle.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 130,
+    "name": "Obara-Oturupon",
+    "alias": ["Obara Tutu"],
+    "rank": 117,
+    "binary_code": "10000010",
+    "nature": "Health/Endurance/Care",
+    "verses": [
+      {
+        "id": "obara-oturupon-1",
+        "chant_yoruba": "Obara tutu, o tutu...",
+        "translation": "Obara is cold...",
+        "message": "Wealth brings heavy responsibilities that may affect your health. Do not neglect your body for money.",
+        "prescription": "Offer fruits and soft food to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 139,
+    "name": "Obara-Otura",
+    "alias": ["Obara Tura"],
+    "rank": 118,
+    "binary_code": "10001011",
+    "nature": "Peace/Mind/Good News",
+    "verses": [
+      {
+        "id": "obara-otura-1",
+        "chant_yoruba": "Obara tura, o tu...",
+        "translation": "Obara relaxes...",
+        "message": "Financial worries are easing. Peace of mind returns. A message of good news regarding work is coming.",
+        "prescription": "Offer white kola and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 141,
+    "name": "Obara-Irete",
+    "alias": ["Obara Ate"],
+    "rank": 119,
+    "binary_code": "10001101",
+    "nature": "Humility/Pressure/Lesson",
+    "verses": [
+      {
+        "id": "obara-irete-1",
+        "chant_yoruba": "Obara ate, o te...",
+        "translation": "Obara steps...",
+        "message": "You are under pressure to perform. Do not let pride make you stumble. Step carefully and be humble.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 138,
+    "name": "Obara-Ose",
+    "alias": ["Obara Se"],
+    "rank": 120,
+    "binary_code": "10001010",
+    "nature": "Victory/Beauty/Love",
+    "verses": [
+      {
+        "id": "obara-ose-1",
+        "chant_yoruba": "Obara se, o se...",
+        "translation": "Obara conquers...",
+        "message": "Victory in love and money. Your charm is working. A relationship brings prosperity.",
+        "prescription": "Offer sweets and brass to Osun."
+      }
+    ]
+  },
+  {
+    "index": 133,
+    "name": "Obara-Ofun",
+    "alias": ["Obara Fun"],
+    "rank": 121,
+    "binary_code": "10000101",
+    "nature": "Generosity/Miracle/Expansion",
+    "verses": [
+      {
+        "id": "obara-ofun-1",
+        "chant_yoruba": "Obara fun, o fun...",
+        "translation": "Obara gives...",
+        "message": "Great wealth is coming, but it must be shared. The miracle happens when you open your hand to give.",
+        "prescription": "Offer white items to Obatala."
+      }
+    ]
+  },
+
+
+  {
+    "index": 31,
+    "name": "Okanran-Ogbe",
+    "alias": ["Okanran Sode"],
+    "rank": 122,
+    "binary_code": "00011111",
+    "nature": "Karma/Justice/Hunting",
+    "verses": [
+      {
+        "id": "okanran-ogbe-1",
+        "chant_yoruba": "Okanran sode, o so...",
+        "translation": "Okanran ties it...",
+        "message": "You are hunting for success, but you must follow the rules. Shortcuts will lead to a trap. Justice is watching.",
+        "prescription": "Offer a dog or iron to Ogun for a successful hunt."
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "name": "Okanran-Oyeku",
+    "alias": ["Okanran Yeku"],
+    "rank": 123,
+    "binary_code": "00010000",
+    "nature": "End of Trouble/Ancestral Law",
+    "verses": [
+      {
+        "id": "okanran-oyeku-1",
+        "chant_yoruba": "Okanran yeku, o ye iku...",
+        "translation": "Okanran understands death...",
+        "message": "A long legal battle or dispute is coming to a close. The ancestors have judged the case. Peace follows the verdict.",
+        "prescription": "Offer food to the Egungun (Ancestors)."
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "name": "Okanran-Iwori",
+    "alias": ["Okanran Awo"],
+    "rank": 124,
+    "binary_code": "00010110",
+    "nature": "Investigation/Secret/Truth",
+    "verses": [
+      {
+        "id": "okanran-iwori-1",
+        "chant_yoruba": "Okanran awo, o wo...",
+        "translation": "Okanran looks into the secret...",
+        "message": "A secret is being kept that is causing trouble. You must speak the truth to break the curse. Investigation is needed.",
+        "prescription": "Offer clear water and a white candle to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "name": "Okanran-Odi",
+    "alias": ["Okanran Di"],
+    "rank": 125,
+    "binary_code": "00011001",
+    "nature": "Blockage/Stubbornness/Law",
+    "verses": [
+      {
+        "id": "okanran-odi-1",
+        "chant_yoruba": "Okanran di, o di...",
+        "translation": "Okanran blocks...",
+        "message": "You are stuck in a legal or bureaucratic deadlock. Stubbornness on both sides is the cause. Someone must yield.",
+        "prescription": "Offer a snail to Esu to lubricate the situation."
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "name": "Okanran-Irosun",
+    "alias": ["Okanran Rosun"],
+    "rank": 126,
+    "binary_code": "00011100",
+    "nature": "Blood/Arguments/Ancestry",
+    "verses": [
+      {
+        "id": "okanran-irosun-1",
+        "chant_yoruba": "Okanran rosun, o ro...",
+        "translation": "Okanran drips...",
+        "message": "Arguments in the family are heating up. Bad blood is rising. Be careful of speaking words you cannot take back.",
+        "prescription": "Offer red cloth and cooling water to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "name": "Okanran-Owonrin",
+    "alias": ["Okanran Wonrin"],
+    "rank": 127,
+    "binary_code": "00010011",
+    "nature": "Chaos/Accident/Reversal",
+    "verses": [
+      {
+        "id": "okanran-owonrin-1",
+        "chant_yoruba": "Okanran wonrin, o won...",
+        "translation": "Okanran crashes...",
+        "message": "A sudden accident or argument reverses your progress. Chaos is present. Stay calm and do not react to provocation.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "name": "Okanran-Obara",
+    "alias": ["Okanran Bara"],
+    "rank": 128,
+    "binary_code": "00011000",
+    "nature": "Pride/Poverty/Struggle",
+    "verses": [
+      {
+        "id": "okanran-obara-1",
+        "chant_yoruba": "Okanran bara, o ba...",
+        "translation": "Okanran meets...",
+        "message": "Pride goes before a fall. You are struggling financially because you refuse to ask for help. Drop your ego.",
+        "prescription": "Offer bananas and honey to Esu."
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "name": "Okanran-Ogunda",
+    "alias": ["Okanran Eguntan"],
+    "rank": 129,
+    "binary_code": "00011110",
+    "nature": "Violence/Justice/Cutting",
+    "verses": [
+      {
+        "id": "okanran-ogunda-1",
+        "chant_yoruba": "Okanran gun, o gun...",
+        "translation": "Okanran stabs...",
+        "message": "Justice will be served through force if necessary. This Odu speaks of winning a battle decisively. Victory is sure.",
+        "prescription": "Offer iron and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "name": "Okanran-Osa",
+    "alias": ["Okanran Sa"],
+    "rank": 130,
+    "binary_code": "00010111",
+    "nature": "Running/Escape/Storm",
+    "verses": [
+      {
+        "id": "okanran-osa-1",
+        "chant_yoruba": "Okanran sa, o sa...",
+        "translation": "Okanran runs...",
+        "message": "A storm is coming. You may need to flee a bad situation to avoid legal trouble. Do not stay where you are not wanted.",
+        "prescription": "Offer feathers to the Wind (Oya)."
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "name": "Okanran-Ika",
+    "alias": ["Okanran Ka"],
+    "rank": 131,
+    "binary_code": "00010100",
+    "nature": "Wickedness/Restraint/Court",
+    "verses": [
+      {
+        "id": "okanran-ika-1",
+        "chant_yoruba": "Okanran ka, o ka...",
+        "translation": "Okanran restrains...",
+        "message": "You are being judged unfairly. Wicked people are trying to use the law against you. Protection against jail is needed.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "name": "Okanran-Oturupon",
+    "alias": ["Okanran Tutu"],
+    "rank": 132,
+    "binary_code": "00010010",
+    "nature": "Illness/Endurance/Mother",
+    "verses": [
+      {
+        "id": "okanran-oturupon-1",
+        "chant_yoruba": "Okanran tutu, o tutu...",
+        "translation": "Okanran is cold...",
+        "message": "A child or mother is suffering. The trouble is persistent. You need endurance to see this through to the end.",
+        "prescription": "Offer soft yam to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "name": "Okanran-Otura",
+    "alias": ["Okanran Tura"],
+    "rank": 133,
+    "binary_code": "00011011",
+    "nature": "Truth/Relief/Verdict",
+    "verses": [
+      {
+        "id": "okanran-otura-1",
+        "chant_yoruba": "Okanran tura, o tu...",
+        "translation": "Okanran relaxes...",
+        "message": "The verdict is in your favor. The truth has set you free. Relief from legal or family pressure is here.",
+        "prescription": "Offer white kola nuts to Ori."
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "name": "Okanran-Irete",
+    "alias": ["Okanran Ate"],
+    "rank": 134,
+    "binary_code": "00011101",
+    "nature": "Humility/Pressure/Trap",
+    "verses": [
+      {
+        "id": "okanran-irete-1",
+        "chant_yoruba": "Okanran ate, o te...",
+        "translation": "Okanran steps...",
+        "message": "You are under pressure and may step into a trap if you are not humble. Do not let pride blind you to danger.",
+        "prescription": "Offer to the Earth (Ile)."
+      },
+
+
+      {
+        "id": "okanran-irete-1",
+        "chant_yoruba": "Okanran ate, o te...",
+        "translation": "Okanran steps...",
+        "message": "You are being pressured to act. Do not step into the trap. Humility will save you from a crushing defeat.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "name": "Okanran-Ose",
+    "alias": ["Okanran Se"],
+    "rank": 135,
+    "binary_code": "00011010",
+    "nature": "Victory/Attraction/Law",
+    "verses": [
+      {
+        "id": "okanran-ose-1",
+        "chant_yoruba": "Okanran se, o se...",
+        "translation": "Okanran conquers...",
+        "message": "A legal victory brings joy. You will conquer your accusers. Beauty and truth are on your side.",
+        "prescription": "Offer sweets to Osun."
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "name": "Okanran-Ofun",
+    "alias": ["Okanran Fun"],
+    "rank": 136,
+    "binary_code": "00010101",
+    "nature": "Miracle/Giving/Truth",
+    "verses": [
+      {
+        "id": "okanran-ofun-1",
+        "chant_yoruba": "Okanran fun, o fun...",
+        "translation": "Okanran gives...",
+        "message": "Speak the truth and a miracle will happen. A generous gift resolves a long-standing conflict.",
+        "prescription": "Offer white eggs and chalk to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 255,
+    "name": "Ogunda-Ogbe",
+    "alias": ["Ogunda Bedo"],
+    "rank": 137,
+    "binary_code": "11101111",
+    "nature": "Victory/Treason/Pathfinding",
+    "verses": [
+      {
+        "id": "ogunda-ogbe-1",
+        "chant_yoruba": "Ogunda bedo, o be...",
+        "translation": "Ogunda cuts the liver...",
+        "message": "There is a risk of treason or betrayal by someone close. You must clear the path carefully. Victory is assured if you are vigilant.",
+        "prescription": "Offer a rooster to Ogun to expose the traitor."
+      }
+    ]
+  },
+  {
+    "index": 224,
+    "name": "Ogunda-Oyeku",
+    "alias": ["Ogunda Yeku"],
+    "rank": 138,
+    "binary_code": "11100000",
+    "nature": "Surgery/End of War/Death Averted",
+    "verses": [
+      {
+        "id": "ogunda-oyeku-1",
+        "chant_yoruba": "Ogunda yeku, o ye iku...",
+        "translation": "Ogunda stops death...",
+        "message": "A surgery or medical intervention may be necessary to save a life. The war is ending. Death is averted through iron.",
+        "prescription": "Offer roasted yam and iron to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 230,
+    "name": "Ogunda-Iwori",
+    "alias": ["Ogunda Wori"],
+    "rank": 139,
+    "binary_code": "11100110",
+    "nature": "Jealousy/Investigation/Force",
+    "verses": [
+      {
+        "id": "ogunda-iwori-1",
+        "chant_yoruba": "Ogunda wori, o wo...",
+        "translation": "Ogunda looks...",
+        "message": "Jealousy is causing confusion. Someone is eyeing your success with envy. You must cut through the lies to see the truth.",
+        "prescription": "Offer a machete to Esu to cut the envy."
+      }
+    ]
+  },
+  {
+    "index": 233,
+    "name": "Ogunda-Odi",
+    "alias": ["Ogunda Di"],
+    "rank": 140,
+    "binary_code": "11101001",
+    "nature": "Breaking Barriers/Escape/Fortification",
+    "verses": [
+      {
+        "id": "ogunda-odi-1",
+        "chant_yoruba": "Ogunda di, o di...",
+        "translation": "Ogunda binds...",
+        "message": "You are trapped, but you have the strength to break the wall. Do not accept confinement. Fight for your freedom.",
+        "prescription": "Offer iron and a key to Esu."
+      }
+    ]
+  },
+  {
+    "index": 236,
+    "name": "Ogunda-Irosun",
+    "alias": ["Ogunda Rosun"],
+    "rank": 141,
+    "binary_code": "11101100",
+    "nature": "Blood/Accident/Ancestry",
+    "verses": [
+      {
+        "id": "ogunda-irosun-1",
+        "chant_yoruba": "Ogunda rosun, o ro...",
+        "translation": "Ogunda drips...",
+        "message": "There is a strong warning of bleeding or accidents at work. Be careful with tools. The ancestors are demanding attention.",
+        "prescription": "Offer red cloth and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 227,
+    "name": "Ogunda-Owonrin",
+    "alias": ["Ogunda Wonrin"],
+    "rank": 142,
+    "binary_code": "11100011",
+    "nature": "Chaos/Revenge/Accident",
+    "verses": [
+      {
+        "id": "ogunda-owonrin-1",
+        "chant_yoruba": "Ogunda wonrin, o won...",
+        "translation": "Ogunda crashes...",
+        "message": "Chaos caused by anger. Revenge will only lead to an accident. Cool your temper before you destroy what you have built.",
+        "prescription": "Offer snails to cool the head."
+      }
+    ]
+  },
+  {
+    "index": 232,
+    "name": "Ogunda-Obara",
+    "alias": ["Ogunda Bara"],
+    "rank": 143,
+    "binary_code": "11101000",
+    "nature": "Work/Profit/Strength",
+    "verses": [
+      {
+        "id": "ogunda-obara-1",
+        "chant_yoruba": "Ogunda bara, o ba...",
+        "translation": "Ogunda meets...",
+        "message": "Hard work brings wealth. Do not be lazy. Your strength will be rewarded with profit. A business breakthrough is near.",
+        "prescription": "Offer palm wine and honey to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 225,
+    "name": "Ogunda-Okanran",
+    "alias": ["Ogunda Kanran"],
+    "rank": 144,
+    "binary_code": "11100001",
+    "nature": "Conflict/Argument/Violence",
+    "verses": [
+      {
+        "id": "ogunda-okanran-1",
+        "chant_yoruba": "Ogunda kanran, o kan...",
+        "translation": "Ogunda hits...",
+        "message": "A severe argument may turn physical. Walk away from the fight. You are right, but the cost of proving it is too high.",
+        "prescription": "Offer a rooster to Sango."
+      }
+    ]
+  },
+  {
+    "index": 231,
+    "name": "Ogunda-Osa",
+    "alias": ["Ogunda Sa"],
+    "rank": 145,
+    "binary_code": "11100111",
+    "nature": "Construction/Wind/Movement",
+    "verses": [
+      {
+        "id": "ogunda-osa-1",
+        "chant_yoruba": "Ogunda sa, o sa...",
+        "translation": "Ogunda constructs...",
+        "message": "Good for building a house or starting a construction project. Do not let the winds of change deter you. Build a solid foundation.",
+        "prescription": "Offer a cock to the foundation of the house."
+      }
+    ]
+  },
+  {
+    "index": 228,
+    "name": "Ogunda-Ika",
+    "alias": ["Ogunda Ka"],
+    "rank": 146,
+    "binary_code": "11100100",
+    "nature": "Protection/Police/Wickedness",
+    "verses": [
+      {
+        "id": "ogunda-ika-1",
+        "chant_yoruba": "Ogunda ka, o ka...",
+        "translation": "Ogunda arrests...",
+        "message": "Danger of police trouble or arrest. Someone is trying to restrain you. You need strong protection against wickedness.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 226,
+    "name": "Ogunda-Oturupon",
+    "alias": ["Ogunda Turupon"],
+    "rank": 147,
+    "binary_code": "11100010",
+    "nature": "Surgery/Health/Recovery",
+    "verses": [
+      {
+        "id": "ogunda-oturupon-1",
+        "chant_yoruba": "Ogunda turupon, o ru...",
+        "translation": "Ogunda carries...",
+        "message": "The body is weak and may require surgery or strong medicine. Recovery will be slow but sure if you follow doctor's orders.",
+        "prescription": "Offer vegetables and healing herbs."
+      }
+    ]
+  },
+  {
+    "index": 235,
+    "name": "Ogunda-Otura",
+    "alias": ["Ogunda Tura", "Ogunda Tasola"],
+    "rank": 148,
+    "binary_code": "11101011",
+    "nature": "Victory/Peace/Wealth",
+    "verses": [
+      {
+        "id": "ogunda-otura-1",
+        "chant_yoruba": "Ogunda tasola, o ta...",
+        "translation": "Ogunda shoots wealth...",
+        "message": "Victory leads to peace and wealth. The war is over. Put down your weapons and enjoy the spoils.",
+        "prescription": "Offer white cloth and gin to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 237,
+    "name": "Ogunda-Irete",
+    "alias": ["Ogunda Ate"],
+    "rank": 149,
+    "binary_code": "11101101",
+    "nature": "Humility/Control/Trap",
+    "verses": [
+      {
+        "id": "ogunda-irete-1",
+        "chant_yoruba": "Ogunda ate, o te...",
+        "translation": "Ogunda steps...",
+        "message": "You are trying to force a situation that requires gentleness. You will be trapped if you use aggression. Be humble.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 234,
+    "name": "Ogunda-Ose",
+    "alias": ["Ogunda Se"],
+    "rank": 150,
+    "binary_code": "11101010",
+    "nature": "Work/Art/Victory",
+    "verses": [
+      {
+        "id": "ogunda-ose-1",
+        "chant_yoruba": "Ogunda se, o se...",
+        "translation": "Ogunda makes...",
+        "message": "Creative work will bring victory. You are crafting your own destiny. Success in artistic or mechanical endeavors.",
+        "prescription": "Offer sweets and tools to Ogun and Osun."
+      }
+    ]
+  },
+  {
+    "index": 229,
+    "name": "Ogunda-Ofun",
+    "alias": ["Ogunda Fun"],
+    "rank": 151,
+    "binary_code": "11100101",
+    "nature": "Miracle/Giving/Restoration",
+    "verses": [
+      {
+        "id": "ogunda-ofun-1",
+        "chant_yoruba": "Ogunda fun, o fun...",
+        "translation": "Ogunda gives...",
+        "message": "A miraculous restoration of what was lost. The struggle ends with a generous gift. Be thankful.",
+        "prescription": "Offer white yam and palm oil."
+      }
+    ]
+  },
+
+
+  {
+    "index": 127,
+    "name": "Osa-Ogbe",
+    "alias": ["Osa Gbe"],
+    "rank": 152,
+    "binary_code": "01111111",
+    "nature": "Travel/Homelessness/Support",
+    "verses": [
+      {
+        "id": "osa-ogbe-1",
+        "chant_yoruba": "Osa gbe, o gbe...",
+        "translation": "Osa carries...",
+        "message": "You are carrying a heavy load and feel like you have no home. The wind is blowing you around. Seek stability.",
+        "prescription": "Offer a pigeon to your Head (Ori) for direction."
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "name": "Osa-Oyeku",
+    "alias": ["Osa Yeku"],
+    "rank": 153,
+    "binary_code": "01110000",
+    "nature": "Death/Ancestors/Stagnation",
+    "verses": [
+      {
+        "id": "osa-oyeku-1",
+        "chant_yoruba": "Osa yeku, o ye iku...",
+        "translation": "Osa understands death...",
+        "message": "The wind blows cold from the cemetery. There is stagnation or a threat of death in the family. Appease the ancestors immediately.",
+        "prescription": "Offer food and red cloth to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 118,
+    "name": "Osa-Iwori",
+    "alias": ["Osa Wo"],
+    "rank": 154,
+    "binary_code": "01110110",
+    "nature": "Investigation/Confusion/Wind",
+    "verses": [
+      {
+        "id": "osa-iwori-1",
+        "chant_yoruba": "Osa wo, o wo...",
+        "translation": "Osa looks...",
+        "message": "You are trying to see clearly in a storm. Confusion surrounds you. Wait for the dust to settle before making a choice.",
+        "prescription": "Offer water to Esu to settle the dust."
+      }
+    ]
+  },
+  {
+    "index": 121,
+    "name": "Osa-Odi",
+    "alias": ["Osa Di"],
+    "rank": 155,
+    "binary_code": "01111001",
+    "nature": "Blockage/Binding/Magic",
+    "verses": [
+      {
+        "id": "osa-odi-1",
+        "chant_yoruba": "Osa di, o di...",
+        "translation": "Osa binds...",
+        "message": "Spiritual forces are blocking your path. It feels like you are tied up. This is likely the work of witchcraft or negative energy.",
+        "prescription": "Offer a chain and he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "name": "Osa-Irosun",
+    "alias": ["Osa Rosun"],
+    "rank": 156,
+    "binary_code": "01111100",
+    "nature": "Depression/Menstrual Issues/Blood",
+    "verses": [
+      {
+        "id": "osa-irosun-1",
+        "chant_yoruba": "Osa rosun, o ro...",
+        "translation": "Osa drips...",
+        "message": "You are feeling drained of energy, like blood dripping away. Depression or menstrual pain is indicated. Seek rest.",
+        "prescription": "Offer red items to the Mothers (Iyami)."
+      }
+    ]
+  },
+  {
+    "index": 115,
+    "name": "Osa-Owonrin",
+    "alias": ["Osa Wonrin"],
+    "rank": 157,
+    "binary_code": "01110011",
+    "nature": "Chaos/Accident/Storm",
+    "verses": [
+      {
+        "id": "osa-owonrin-1",
+        "chant_yoruba": "Osa wonrin, o won...",
+        "translation": "Osa crashes...",
+        "message": "A storm is coming that will turn everything upside down. Beware of accidents during travel. Chaos is in the air.",
+        "prescription": "Offer a tortoise to Esu to stabilize your path."
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "name": "Osa-Obara",
+    "alias": ["Osa Bara"],
+    "rank": 158,
+    "binary_code": "01111000",
+    "nature": "Indecision/Wealth/Deceit",
+    "verses": [
+      {
+        "id": "osa-obara-1",
+        "chant_yoruba": "Osa bara, o ba...",
+        "translation": "Osa meets...",
+        "message": "You are chasing wealth in the wind. Schemes and get-rich-quick plans will fail. Indecision is costing you money.",
+        "prescription": "Offer honey and bananas to Ori."
+      }
+    ]
+  },
+  {
+    "index": 113,
+    "name": "Osa-Okanran",
+    "alias": ["Osa Kanran"],
+    "rank": 159,
+    "binary_code": "01110001",
+    "nature": "Conflict/Witchcraft/Truth",
+    "verses": [
+      {
+        "id": "osa-okanran-1",
+        "chant_yoruba": "Osa kanran, o kan...",
+        "translation": "Osa hits...",
+        "message": "A conflict with a powerful woman or spiritual force. You are speaking the truth, but it is causing a storm.",
+        "prescription": "Offer sweets and eggs to the Mothers to cool the fight."
+      }
+    ]
+  },
+  {
+    "index": 126,
+    "name": "Osa-Ogunda",
+    "alias": ["Osa Gun"],
+    "rank": 160,
+    "binary_code": "01111110",
+    "nature": "Violence/War/Storm",
+    "verses": [
+      {
+        "id": "osa-ogunda-1",
+        "chant_yoruba": "Osa gun, o gun...",
+        "translation": "Osa stabs...",
+        "message": "The wind carries the sound of war. Violence or aggressive change is coming. Prepare for a battle to clear the air.",
+        "prescription": "Offer iron to Ogun and breeze to Oya."
+      }
+    ]
+  },
+  {
+    "index": 116,
+    "name": "Osa-Ika",
+    "alias": ["Osa Ka"],
+    "rank": 161,
+    "binary_code": "01110100",
+    "nature": "Wickedness/Sorcery/Protection",
+    "verses": [
+      {
+        "id": "osa-ika-1",
+        "chant_yoruba": "Osa ka, o ka...",
+        "translation": "Osa encircles...",
+        "message": "You are surrounded by wicked intentions. Sorcery is being used to restrain you. You must break the circle.",
+        "prescription": "Offer a he-goat to Esu for strong protection."
+      }
+    ]
+  },
+  {
+    "index": 114,
+    "name": "Osa-Oturupon",
+    "alias": ["Osa Turupon"],
+    "rank": 162,
+    "binary_code": "01110010",
+    "nature": "Illness/Childbirth/Risk",
+    "verses": [
+      {
+        "id": "osa-oturupon-1",
+        "chant_yoruba": "Osa turupon, o ru...",
+        "translation": "Osa carries...",
+        "message": "Pregnancy or illness is at risk due to spiritual interference. The carrier is weak. Extreme care is needed.",
+        "prescription": "Offer soft yam and palm oil to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 123,
+    "name": "Osa-Otura",
+    "alias": ["Osa Tura"],
+    "rank": 163,
+    "binary_code": "01111011",
+    "nature": "Relief/Peace/Truth",
+    "verses": [
+      {
+        "id": "osa-otura-1",
+        "chant_yoruba": "Osa tura, o tu...",
+        "translation": "Osa relaxes...",
+        "message": "The storm has passed. Peace returns to the land. The truth has blown away the lies.",
+        "prescription": "Offer white cloth to Oya and Obatala."
+      }
+    ]
+  },
+  {
+    "index": 125,
+    "name": "Osa-Irete",
+    "alias": ["Osa Ote"],
+    "rank": 164,
+    "binary_code": "01111101",
+    "nature": "Humility/Scattering/Change",
+    "verses": [
+      {
+        "id": "osa-irete-1",
+        "chant_yoruba": "Osa te, o te...",
+        "translation": "Osa presses...",
+        "message": "Do not fight the wind. Bend like the reed or you will break. Humility allows you to survive the change.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 122,
+    "name": "Osa-Ose",
+    "alias": ["Osa Se"],
+    "rank": 165,
+    "binary_code": "01111010",
+    "nature": "Victory/Beauty/Charm",
+    "verses": [
+      {
+        "id": "osa-ose-1",
+        "chant_yoruba": "Osa se, o se...",
+        "translation": "Osa conquers...",
+        "message": "You will conquer through charm, not force. A beautiful woman brings luck or change. Victory is sweet.",
+        "prescription": "Offer honey and brass to Osun."
+      }
+    ]
+  },
+  {
+    "index": 117,
+    "name": "Osa-Ofun",
+    "alias": ["Osa Fun"],
+    "rank": 166,
+    "binary_code": "01110101",
+    "nature": "Miracle/Generosity/White Wind",
+    "verses": [
+      {
+        "id": "osa-ofun-1",
+        "chant_yoruba": "Osa fun, o fun...",
+        "translation": "Osa gives...",
+        "message": "A miracle rides on the wind. Unexpected generosity solves your problems. Keep your spirit white and pure.",
+        "prescription": "Offer white pigeons to Obatala."
+      }
+    ]
+  },
+
+
+
+  {
+    "index": 79,
+    "name": "Ika-Ogbe",
+    "alias": ["Ika Gbe"],
+    "rank": 167,
+    "binary_code": "01001111",
+    "nature": "Protection/Theft/Warning",
+    "verses": [
+      {
+        "id": "ika-ogbe-1",
+        "chant_yoruba": "Ika gbe, o gbe...",
+        "translation": "Ika carries...",
+        "message": "There is a warning of theft or loss. Do not carry what does not belong to you. Protection is needed for your possessions.",
+        "prescription": "Offer a padlock and a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "name": "Ika-Oyeku",
+    "alias": ["Ika Yeku"],
+    "rank": 168,
+    "binary_code": "01000000",
+    "nature": "Death/Ending/Judgment",
+    "verses": [
+      {
+        "id": "ika-oyeku-1",
+        "chant_yoruba": "Ika yeku, o ye iku...",
+        "translation": "Ika honors death...",
+        "message": "The wicked will meet their end. Judgment is coming. If you are innocent, you have nothing to fear from the darkness.",
+        "prescription": "Offer food to the Elders of the Night."
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "name": "Ika-Iwori",
+    "alias": ["Ika Wori"],
+    "rank": 169,
+    "binary_code": "01000110",
+    "nature": "Vision/Envy/Wickedness",
+    "verses": [
+      {
+        "id": "ika-iwori-1",
+        "chant_yoruba": "Ika wori, o wo...",
+        "translation": "Ika looks...",
+        "message": "People are watching you with envious eyes. Wickedness is hidden behind a smile. Be careful who you trust with your plans.",
+        "prescription": "Offer dried fish and palm oil to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "name": "Ika-Odi",
+    "alias": ["Ika Di"],
+    "rank": 170,
+    "binary_code": "01001001",
+    "nature": "Restraint/Prison/Binding",
+    "verses": [
+      {
+        "id": "ika-odi-1",
+        "chant_yoruba": "Ika di, o di...",
+        "translation": "Ika binds...",
+        "message": "You are feeling hemmed in or restrained. There is a danger of imprisonment or being trapped by your own actions.",
+        "prescription": "Offer a chain to Esu and break it."
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "name": "Ika-Irosun",
+    "alias": ["Ika Rosun"],
+    "rank": 171,
+    "binary_code": "01001100",
+    "nature": "Blood/Guilt/Ancestry",
+    "verses": [
+      {
+        "id": "ika-irosun-1",
+        "chant_yoruba": "Ika rosun, o ro...",
+        "translation": "Ika drips...",
+        "message": "The blood of the innocent cries out. Do not participate in wicked acts. Ancestral guilt may be affecting you.",
+        "prescription": "Offer red cloth to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "name": "Ika-Owonrin",
+    "alias": ["Ika Wonrin"],
+    "rank": 172,
+    "binary_code": "01000011",
+    "nature": "Chaos/Reversal/Accident",
+    "verses": [
+      {
+        "id": "ika-owonrin-1",
+        "chant_yoruba": "Ika wonrin, o won...",
+        "translation": "Ika crashes...",
+        "message": "A wicked plan will backfire. The trap set for you will catch the setter. Chaos reverses the evil intention.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 72,
+    "name": "Ika-Obara",
+    "alias": ["Ika Bara"],
+    "rank": 173,
+    "binary_code": "01001000",
+    "nature": "Power/Pride/Downfall",
+    "verses": [
+      {
+        "id": "ika-obara-1",
+        "chant_yoruba": "Ika bara, o ba...",
+        "translation": "Ika meets...",
+        "message": "Do not use your power to oppress others. Pride will lead to a downfall. Use your wealth to help, not harm.",
+        "prescription": "Offer bananas and honey to Ori."
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "name": "Ika-Okanran",
+    "alias": ["Ika Kanran"],
+    "rank": 174,
+    "binary_code": "01000001",
+    "nature": "Conflict/Justice/Punishment",
+    "verses": [
+      {
+        "id": "ika-okanran-1",
+        "chant_yoruba": "Ika kanran, o kan...",
+        "translation": "Ika hits...",
+        "message": "Justice is coming for the wicked. A dispute will end in punishment for the guilty party. Speak the truth to be saved.",
+        "prescription": "Offer a rooster to Sango."
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "name": "Ika-Ogunda",
+    "alias": ["Ika Gun"],
+    "rank": 175,
+    "binary_code": "01001110",
+    "nature": "Violence/War/Protection",
+    "verses": [
+      {
+        "id": "ika-ogunda-1",
+        "chant_yoruba": "Ika gun, o gun...",
+        "translation": "Ika stabs...",
+        "message": "Violence is used to restrain the enemy. You must fight to protect your boundaries. Iron meets wickedness.",
+        "prescription": "Offer iron and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 71,
+    "name": "Ika-Osa",
+    "alias": ["Ika Sa"],
+    "rank": 176,
+    "binary_code": "01000111",
+    "nature": "Running/Fear/Sorcery",
+    "verses": [
+      {
+        "id": "ika-osa-1",
+        "chant_yoruba": "Ika sa, o sa...",
+        "translation": "Ika runs...",
+        "message": "You are running from a spiritual attack. Sorcery is involved. Flee the environment if you feel unsafe.",
+        "prescription": "Offer eggs to the Mothers (Iyami) for protection."
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "name": "Ika-Oturupon",
+    "alias": ["Ika Turupon"],
+    "rank": 177,
+    "binary_code": "01000010",
+    "nature": "Abortion/Childbirth/Danger",
+    "verses": [
+      {
+        "id": "ika-oturupon-1",
+        "chant_yoruba": "Ika turupon, o ru...",
+        "translation": "Ika carries...",
+        "message": "This Odu warns against abortion or harm to a child. The womb is under spiritual surveillance. Protect the pregnant.",
+        "prescription": "Offer soft yam and palm oil to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "name": "Ika-Otura",
+    "alias": ["Ika Tura"],
+    "rank": 178,
+    "binary_code": "01001011",
+    "nature": "Relief/Freedom/Peace",
+    "verses": [
+      {
+        "id": "ika-otura-1",
+        "chant_yoruba": "Ika tura, o tu...",
+        "translation": "Ika relaxes...",
+        "message": "The restraints are loosened. You are free from the control of wicked people. Peace of mind returns.",
+        "prescription": "Offer white kola and water to Esu."
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "name": "Ika-Irete",
+    "alias": ["Ika Ate"],
+    "rank": 179,
+    "binary_code": "01001101",
+    "nature": "Humility/Trap/Crushing",
+    "verses": [
+      {
+        "id": "ika-irete-1",
+        "chant_yoruba": "Ika te, o te...",
+        "translation": "Ika presses...",
+        "message": "Do not set traps for others, or you will fall into them yourself. Humility is your shield against wickedness.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "name": "Ika-Ose",
+    "alias": ["Ika Se"],
+    "rank": 180,
+    "binary_code": "01001010",
+    "nature": "Beauty/Wickedness/Charm",
+    "verses": [
+      {
+        "id": "ika-ose-1",
+        "chant_yoruba": "Ika se, o se...",
+        "translation": "Ika conquers...",
+        "message": "A beautiful person may have a wicked heart. Do not be deceived by appearances. Use charm to disarm your enemies.",
+        "prescription": "Offer sweets to Osun."
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "name": "Ika-Ofun",
+    "alias": ["Ika Fun"],
+    "rank": 181,
+    "binary_code": "01000101",
+    "nature": "Miracle/Giving/Restoration",
+    "verses": [
+      {
+        "id": "ika-ofun-1",
+        "chant_yoruba": "Ika fun, o fun...",
+        "translation": "Ika gives...",
+        "message": "Even the wicked must bow to the generous. A miracle will restore what was stolen. Keep your hands clean.",
+        "prescription": "Offer white items to Obatala."
+      }
+    ]
+  },
+
+
+  {
+    "index": 47,
+    "name": "Oturupon-Ogbe",
+    "alias": ["Oturupon Gbe"],
+    "rank": 182,
+    "binary_code": "00101111",
+    "nature": "Childbirth/Protection/Burden",
+    "verses": [
+      {
+        "id": "oturupon-ogbe-1",
+        "chant_yoruba": "Oturupon gbe, o gbe...",
+        "translation": "Oturupon carries...",
+        "message": "You are carrying a precious burden (child or project). Safe delivery is promised if you offer sacrifice. Do not be careless.",
+        "prescription": "Offer a goat to Ifa for safe delivery."
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "name": "Oturupon-Oyeku",
+    "alias": ["Oturupon Yeku"],
+    "rank": 183,
+    "binary_code": "00100000",
+    "nature": "Health/Longevity/Bones",
+    "verses": [
+      {
+        "id": "oturupon-oyeku-1",
+        "chant_yoruba": "Oturupon yeku, o ye iku...",
+        "translation": "Oturupon survives death...",
+        "message": "This Odu gives strong health and protection against death. It speaks of strong bones and longevity. The sick will recover.",
+        "prescription": "Offer bone marrow and food to the Elders."
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "name": "Oturupon-Iwori",
+    "alias": ["Oturupon Wori"],
+    "rank": 184,
+    "binary_code": "00100110",
+    "nature": "Analysis/Care/Environment",
+    "verses": [
+      {
+        "id": "oturupon-iwori-1",
+        "chant_yoruba": "Oturupon wori, o wo...",
+        "translation": "Oturupon examines...",
+        "message": "You must examine the environment before you settle. A burden requires careful planning. Look before you leap.",
+        "prescription": "Offer to the Earth (Ile) before building."
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "name": "Oturupon-Odi",
+    "alias": ["Oturupon Di"],
+    "rank": 185,
+    "binary_code": "00101001",
+    "nature": "Obstruction/Pregnancy/Risk",
+    "verses": [
+      {
+        "id": "oturupon-odi-1",
+        "chant_yoruba": "Oturupon di, o di...",
+        "translation": "Oturupon blocks...",
+        "message": "There is a risk of blockage in childbirth or a project. The path is tight. You need spiritual help to open the gate.",
+        "prescription": "Offer snails and oil to Esu."
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "name": "Oturupon-Irosun",
+    "alias": ["Oturupon Rosun"],
+    "rank": 186,
+    "binary_code": "00101100",
+    "nature": "Ancestral Support/Endurance",
+    "verses": [
+      {
+        "id": "oturupon-irosun-1",
+        "chant_yoruba": "Oturupon rosun, o ro...",
+        "translation": "Oturupon waits...",
+        "message": "The ancestors are supporting you in carrying this load. Endurance is in your bloodline. Do not give up.",
+        "prescription": "Offer red cloth and yam to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "name": "Oturupon-Owonrin",
+    "alias": ["Oturupon Wonrin"],
+    "rank": 187,
+    "binary_code": "00100011",
+    "nature": "Chaos/Collapse/Warning",
+    "verses": [
+      {
+        "id": "oturupon-owonrin-1",
+        "chant_yoruba": "Oturupon wonrin, o won...",
+        "translation": "Oturupon crashes...",
+        "message": "The structure is weak. There is a danger of collapse (physical or metaphorical). Reinforce your foundation immediately.",
+        "prescription": "Offer a tortoise and cement/stone to Esu."
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "name": "Oturupon-Obara",
+    "alias": ["Oturupon Bara"],
+    "rank": 188,
+    "binary_code": "00101000",
+    "nature": "Wealth/Effort/Reward",
+    "verses": [
+      {
+        "id": "oturupon-obara-1",
+        "chant_yoruba": "Oturupon bara, o ba...",
+        "translation": "Oturupon meets...",
+        "message": "You are working hard to carry the weight of wealth. It is heavy, but the reward is great. Keep pushing.",
+        "prescription": "Offer honey and bananas to Ori."
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "name": "Oturupon-Okanran",
+    "alias": ["Oturupon Kanran"],
+    "rank": 189,
+    "binary_code": "00100001",
+    "nature": "Conflict/Struggle/Persistence",
+    "verses": [
+      {
+        "id": "oturupon-okanran-1",
+        "chant_yoruba": "Oturupon kanran, o kan...",
+        "translation": "Oturupon hits...",
+        "message": "You are struggling against opposition to maintain your position. Persistence will win the argument. Stand firm.",
+        "prescription": "Offer a rooster to Sango."
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "name": "Oturupon-Ogunda",
+    "alias": ["Oturupon Gunda"],
+    "rank": 190,
+    "binary_code": "00101110",
+    "nature": "Surgery/Iron/Strength",
+    "verses": [
+      {
+        "id": "oturupon-ogunda-1",
+        "chant_yoruba": "Oturupon gun, o gun...",
+        "translation": "Oturupon cuts...",
+        "message": "Surgery may be needed to fix a bone or structural issue. Iron strengthens the body. Victory through endurance.",
+        "prescription": "Offer iron and roasted yam to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "name": "Oturupon-Osa",
+    "alias": ["Oturupon Sa"],
+    "rank": 191,
+    "binary_code": "00100111",
+    "nature": "Wind/Instability/Protection",
+    "verses": [
+      {
+        "id": "oturupon-osa-1",
+        "chant_yoruba": "Oturupon sa, o sa...",
+        "translation": "Oturupon runs...",
+        "message": "The wind threatens to blow away what you are carrying. Protect your cargo from spiritual storms.",
+        "prescription": "Offer feathers to Oya."
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "name": "Oturupon-Ika",
+    "alias": ["Oturupon Ka"],
+    "rank": 192,
+    "binary_code": "00100100",
+    "nature": "Wickedness/Abortion/Safety",
+    "verses": [
+      {
+        "id": "oturupon-ika-1",
+        "chant_yoruba": "Oturupon ka, o ka...",
+        "translation": "Oturupon restrains...",
+        "message": "Wicked people are trying to harm a pregnancy or a new venture. High alert is needed. Shield the vulnerable.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "name": "Oturupon-Otura",
+    "alias": ["Oturupon Tura"],
+    "rank": 193,
+    "binary_code": "00101011",
+    "nature": "Relief/Healing/Peace",
+    "verses": [
+      {
+        "id": "oturupon-otura-1",
+        "chant_yoruba": "Oturupon tura, o tu...",
+        "translation": "Oturupon relaxes...",
+        "message": "The burden is lifted. Healing has arrived. After a long period of endurance, you will find rest.",
+        "prescription": "Offer white kola and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "name": "Oturupon-Irete",
+    "alias": ["Oturupon Ate"],
+    "rank": 194,
+    "binary_code": "00101101",
+    "nature": "Humility/Crushing/Earth",
+    "verses": [
+      {
+        "id": "oturupon-irete-1",
+        "chant_yoruba": "Oturupon te, o te...",
+        "translation": "Oturupon presses...",
+        "message": "The load is heavy enough to crush you if you are arrogant. Bow down to the earth to find the strength to carry it.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "name": "Oturupon-Ose",
+    "alias": ["Oturupon Se"],
+    "rank": 195,
+    "binary_code": "00101010",
+    "nature": "Victory/Fertility/Joy",
+    "verses": [
+      {
+        "id": "oturupon-ose-1",
+        "chant_yoruba": "Oturupon se, o se...",
+        "translation": "Oturupon conquers...",
+        "message": "Endurance leads to victory. A child brings joy to the house. The suffering was worth the reward.",
+        "prescription": "Offer sweets and brass to Osun."
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "name": "Oturupon-Ofun",
+    "alias": ["Oturupon Fun"],
+    "rank": 196,
+    "binary_code": "00100101",
+    "nature": "Miracle/Creation/Giving",
+    "verses": [
+      {
+        "id": "oturupon-ofun-1",
+        "chant_yoruba": "Oturupon fun, o fun...",
+        "translation": "Oturupon gives...",
+        "message": "A miraculous birth or creation. What you are carrying is a gift from the gods. Be generous.",
+        "prescription": "Offer white items to Obatala."
+      }
+    ]
+  },
+
+
+
+  {
+    "index": 191,
+    "name": "Otura-Ogbe",
+    "alias": ["Otura Oriko"],
+    "rank": 197,
+    "binary_code": "10111111",
+    "nature": "Betrayal/Victory/Head",
+    "verses": [
+      {
+        "id": "otura-ogbe-1",
+        "chant_yoruba": "Otura oriko, o ri ko...",
+        "translation": "Otura meets the head...",
+        "message": "Victory comes through the head (intelligence). However, be careful of betrayal by a friend. Use your mind, not your fists.",
+        "prescription": "Offer a coconut and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 176,
+    "name": "Otura-Oyeku",
+    "alias": ["Otura Aiku"],
+    "rank": 198,
+    "binary_code": "10110000",
+    "nature": "Immortality/Health/Peace",
+    "verses": [
+      {
+        "id": "otura-oyeku-1",
+        "chant_yoruba": "Otura aiku, o ye iku...",
+        "translation": "Otura averts death...",
+        "message": "This Odu promises long life and victory over death. A serious illness will be cured. Peace returns to the family.",
+        "prescription": "Offer cold water and white cloth to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 182,
+    "name": "Otura-Iwori",
+    "alias": ["Otura Iwori"],
+    "rank": 199,
+    "binary_code": "10110110",
+    "nature": "Investigation/Truth/Character",
+    "verses": [
+      {
+        "id": "otura-iwori-1",
+        "chant_yoruba": "Otura iwori, o wo...",
+        "translation": "Otura examines...",
+        "message": "Character is beauty. If you investigate the matter deeply, you will find the truth. Do not judge by appearances.",
+        "prescription": "Offer soap and water to Esu to wash away bad luck."
+      }
+    ]
+  },
+  {
+    "index": 185,
+    "name": "Otura-Odi",
+    "alias": ["Otura Di"],
+    "rank": 200,
+    "binary_code": "10111001",
+    "nature": "Freedom/Release/Opening",
+    "verses": [
+      {
+        "id": "otura-odi-1",
+        "chant_yoruba": "Otura di, o di...",
+        "translation": "Otura unbinds...",
+        "message": "You were stuck, but the truth has set you free. The blockage is removed. Travel is now safe.",
+        "prescription": "Offer a key and oil to Esu."
+      }
+    ]
+  },
+  {
+    "index": 188,
+    "name": "Otura-Irosun",
+    "alias": ["Otura Rosun"],
+    "rank": 201,
+    "binary_code": "10111100",
+    "nature": "Cleansing/Ancestry/Insight",
+    "verses": [
+      {
+        "id": "otura-irosun-1",
+        "chant_yoruba": "Otura rosun, o ro...",
+        "translation": "Otura drips...",
+        "message": "Spiritual cleansing is needed. The ancestors are asking for attention. Clear the altar and your mind.",
+        "prescription": "Offer white cloth and gin to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 179,
+    "name": "Otura-Owonrin",
+    "alias": ["Otura Wonrin"],
+    "rank": 202,
+    "binary_code": "10110011",
+    "nature": "Reversal/Calm/Recovery",
+    "verses": [
+      {
+        "id": "otura-owonrin-1",
+        "chant_yoruba": "Otura wonrin, o won...",
+        "translation": "Otura crashes...",
+        "message": "A chaotic situation is calmed by wisdom. A loss is recovered through intelligence. Do not panic.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 184,
+    "name": "Otura-Obara",
+    "alias": ["Otura Bara"],
+    "rank": 203,
+    "binary_code": "10111000",
+    "nature": "Prosperity/Truth/Sharing",
+    "verses": [
+      {
+        "id": "otura-obara-1",
+        "chant_yoruba": "Otura bara, o ba...",
+        "translation": "Otura meets...",
+        "message": "Honest business brings wealth. Prosperity comes when you share your profits. Do not be greedy.",
+        "prescription": "Offer bananas and honey to Ori."
+      }
+    ]
+  },
+  {
+    "index": 177,
+    "name": "Otura-Okanran",
+    "alias": ["Otura Kanran"],
+    "rank": 204,
+    "binary_code": "10110001",
+    "nature": "Dispute/Verdict/Justice",
+    "verses": [
+      {
+        "id": "otura-okanran-1",
+        "chant_yoruba": "Otura kanran, o kan...",
+        "translation": "Otura hits...",
+        "message": "The verdict is in. Truth wins over force. A dispute is settled in your favor if you stay calm.",
+        "prescription": "Offer white kola nuts to Esu."
+      }
+    ]
+  },
+  {
+    "index": 190,
+    "name": "Otura-Ogunda",
+    "alias": ["Otura Eguntan"],
+    "rank": 205,
+    "binary_code": "10111110",
+    "nature": "Victory/Peace/Iron",
+    "verses": [
+      {
+        "id": "otura-ogunda-1",
+        "chant_yoruba": "Otura gun, o gun...",
+        "translation": "Otura stabs...",
+        "message": "Victory is achieved, and now it is time for peace. Put down the sword. Iron is used to build, not destroy.",
+        "prescription": "Offer roasted yam and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 183,
+    "name": "Otura-Osa",
+    "alias": ["Otura Sa"],
+    "rank": 206,
+    "binary_code": "10110111",
+    "nature": "Wind/Truth/Change",
+    "verses": [
+      {
+        "id": "otura-osa-1",
+        "chant_yoruba": "Otura sa, o sa...",
+        "translation": "Otura runs...",
+        "message": "The wind carries the truth far and wide. Secrets are revealed. Embrace the change, do not run from it.",
+        "prescription": "Offer feathers to Oya."
+      }
+    ]
+  },
+  {
+    "index": 180,
+    "name": "Otura-Ika",
+    "alias": ["Otura Ka"],
+    "rank": 207,
+    "binary_code": "10110100",
+    "nature": "Restraint/Protection/Calm",
+    "verses": [
+      {
+        "id": "otura-ika-1",
+        "chant_yoruba": "Otura ka, o ka...",
+        "translation": "Otura restrains...",
+        "message": "Your calm demeanor disarms your enemies. Wickedness cannot penetrate the shield of truth. You are protected.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 178,
+    "name": "Otura-Oturupon",
+    "alias": ["Otura Turupon"],
+    "rank": 208,
+    "binary_code": "10110010",
+    "nature": "Health/Endurance/Care",
+    "verses": [
+      {
+        "id": "otura-oturupon-1",
+        "chant_yoruba": "Otura turupon, o ru...",
+        "translation": "Otura carries...",
+        "message": "Endurance brings peace. Care for the weak or sick is a sacred duty. Your health will improve.",
+        "prescription": "Offer soft yam and oil to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 189,
+    "name": "Otura-Irete",
+    "alias": ["Otura Ate"],
+    "rank": 209,
+    "binary_code": "10111101",
+    "nature": "Humility/Peace/Lesson",
+    "verses": [
+      {
+        "id": "otura-irete-1",
+        "chant_yoruba": "Otura te, o te...",
+        "translation": "Otura presses...",
+        "message": "Humility brings peace of mind. Do not trample on others. A lesson learned in silence is valuable.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 186,
+    "name": "Otura-Ose",
+    "alias": ["Otura Se"],
+    "rank": 210,
+    "binary_code": "10111010",
+    "nature": "Victory/Beauty/Religion",
+    "verses": [
+      {
+        "id": "otura-ose-1",
+        "chant_yoruba": "Otura se, o se...",
+        "translation": "Otura conquers...",
+        "message": "Religious or spiritual victory. Beauty and truth combine to bring success. Your prayers are answered.",
+        "prescription": "Offer sweets and white cloth to Osun and Obatala."
+      }
+    ]
+  },
+  {
+    "index": 181,
+    "name": "Otura-Ofun",
+    "alias": ["Otura Fun"],
+    "rank": 211,
+    "binary_code": "10110101",
+    "nature": "Miracle/Giving/Truth",
+    "verses": [
+      {
+        "id": "otura-ofun-1",
+        "chant_yoruba": "Otura fun, o fun...",
+        "translation": "Otura gives...",
+        "message": "The truth brings a miracle. Be generous with your knowledge and wealth. The white cloth of peace covers you.",
+        "prescription": "Offer white items to Obatala."
+      }
+    ]
+  },
+
+  {
+    "index": 223,
+    "name": "Irete-Ogbe",
+    "alias": ["Irete Untelu"],
+    "rank": 212,
+    "binary_code": "11011111",
+    "nature": "Humility/Prosperity/Removal",
+    "verses": [
+      {
+        "id": "irete-ogbe-1",
+        "chant_yoruba": "Irete untelu, o te...",
+        "translation": "Irete presses the ground...",
+        "message": "We must humble ourselves to enter the house of wealth. Arrogance will ruin you. A sacrifice is needed to remove bad luck.",
+        "prescription": "Offer a pigeon and bury it for the Earth."
+      }
+    ]
+  },
+  {
+    "index": 208,
+    "name": "Irete-Oyeku",
+    "alias": ["Irete Yero"],
+    "rank": 213,
+    "binary_code": "11010000",
+    "nature": "Averting Death/Healing/Peace",
+    "verses": [
+      {
+        "id": "irete-oyeku-1",
+        "chant_yoruba": "Irete yero, o ye ro...",
+        "translation": "Irete calms the difficulty...",
+        "message": "This Odu averts death and brings peace to a chaotic situation. Patience and calmness are required to heal.",
+        "prescription": "Offer a snail and water to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 214,
+    "name": "Irete-Iwori",
+    "alias": ["Irete Wori"],
+    "rank": 214,
+    "binary_code": "11010110",
+    "nature": "Initiation/Secrets/Vision",
+    "verses": [
+      {
+        "id": "irete-iwori-1",
+        "chant_yoruba": "Irete wori, o wo...",
+        "translation": "Irete investigates...",
+        "message": "You are undergoing a spiritual initiation or learning a deep secret. Do not rush the process. True vision requires humility.",
+        "prescription": "Offer kola nuts to Ifa."
+      }
+    ]
+  },
+  {
+    "index": 217,
+    "name": "Irete-Odi",
+    "alias": ["Irete Di"],
+    "rank": 215,
+    "binary_code": "11011001",
+    "nature": "Binding/Protection/Refusal",
+    "verses": [
+      {
+        "id": "irete-odi-1",
+        "chant_yoruba": "Irete di, o di...",
+        "translation": "Irete binds...",
+        "message": "You are refusing to let go of something that binds you. The trap is set. Liberation comes from releasing the grudge.",
+        "prescription": "Offer a padlock and key to Esu."
+      }
+    ]
+  },
+  {
+    "index": 220,
+    "name": "Irete-Irosun",
+    "alias": ["Irete Rosun"],
+    "rank": 216,
+    "binary_code": "11011100",
+    "nature": "Ancestry/Depression/Memory",
+    "verses": [
+      {
+        "id": "irete-irosun-1",
+        "chant_yoruba": "Irete rosun, o ro...",
+        "translation": "Irete drips...",
+        "message": "You are carrying the pain of the past. The ancestors want you to drop this burden. Humility heals old wounds.",
+        "prescription": "Offer red cloth and camwood to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 211,
+    "name": "Irete-Owonrin",
+    "alias": ["Irete Olo"],
+    "rank": 217,
+    "binary_code": "11010011",
+    "nature": "Chaos/Reversal/Accident",
+    "verses": [
+      {
+        "id": "irete-owonrin-1",
+        "chant_yoruba": "Irete olo, o lo...",
+        "translation": "Irete grinds...",
+        "message": "Chaos is grinding you down. A sudden reversal of plans is necessary. Slow down before you crash.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 216,
+    "name": "Irete-Obara",
+    "alias": ["Irete Alao"],
+    "rank": 218,
+    "binary_code": "11011000",
+    "nature": "Wealth/Pride/Work",
+    "verses": [
+      {
+        "id": "irete-obara-1",
+        "chant_yoruba": "Irete alao, a la...",
+        "translation": "Irete dreams of wealth...",
+        "message": "You are working hard for wealth, but pride may block the blessing. Share your success with the community.",
+        "prescription": "Offer honey and bananas to Ori."
+      }
+    ]
+  },
+  {
+    "index": 209,
+    "name": "Irete-Okanran",
+    "alias": ["Irete Mokun"],
+    "rank": 219,
+    "binary_code": "11010001",
+    "nature": "Conflict/Justice/Drowning",
+    "verses": [
+      {
+        "id": "irete-okanran-1",
+        "chant_yoruba": "Irete mokun, o kun...",
+        "translation": "Irete dives...",
+        "message": "You are diving into a conflict that is deeper than you think. There is a risk of drowning in legal trouble. Seek mediation.",
+        "prescription": "Offer a rooster to Sango."
+      }
+    ]
+  },
+  {
+    "index": 222,
+    "name": "Irete-Ogunda",
+    "alias": ["Irete Aya"],
+    "rank": 220,
+    "binary_code": "11011110",
+    "nature": "Violence/Fear/Protection",
+    "verses": [
+      {
+        "id": "irete-ogunda-1",
+        "chant_yoruba": "Irete aya, o ya...",
+        "translation": "Irete tears...",
+        "message": "Violence or aggressive cutting is threatened. You must protect yourself from physical harm. Do not be afraid, but be prepared.",
+        "prescription": "Offer iron and palm oil to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 215,
+    "name": "Irete-Osa",
+    "alias": ["Irete Sa"],
+    "rank": 221,
+    "binary_code": "11010111",
+    "nature": "Wind/Running/Change",
+    "verses": [
+      {
+        "id": "irete-osa-1",
+        "chant_yoruba": "Irete sa, o sa...",
+        "translation": "Irete runs...",
+        "message": "The wind blows away the chaff. You must let go of what is leaving your life. Running away may be the only option.",
+        "prescription": "Offer feathers to Oya."
+      }
+    ]
+  },
+  {
+    "index": 212,
+    "name": "Irete-Ika",
+    "alias": ["Irete Ka"],
+    "rank": 222,
+    "binary_code": "11010100",
+    "nature": "Wickedness/Restraint/Harvest",
+    "verses": [
+      {
+        "id": "irete-ika-1",
+        "chant_yoruba": "Irete ka, o ka...",
+        "translation": "Irete harvests...",
+        "message": "You reap what you sow. Wickedness will be restrained by the Earth. Be careful of farming or land disputes.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 210,
+    "name": "Irete-Oturupon",
+    "alias": ["Irete Tutu"],
+    "rank": 223,
+    "binary_code": "11010010",
+    "nature": "Illness/Care/Earth",
+    "verses": [
+      {
+        "id": "irete-oturupon-1",
+        "chant_yoruba": "Irete tutu, o tutu...",
+        "translation": "Irete is cold...",
+        "message": "A sickness comes from the damp earth. The body is cold. Warmth and care are needed to restore health.",
+        "prescription": "Offer hot corn pap to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 219,
+    "name": "Irete-Otura",
+    "alias": ["Irete Sukankola"],
+    "rank": 224,
+    "binary_code": "11011011",
+    "nature": "Victory/Peace/Happiness",
+    "verses": [
+      {
+        "id": "irete-otura-1",
+        "chant_yoruba": "Irete sukankola, o kola...",
+        "translation": "Irete gathers wealth...",
+        "message": "This is a sign of great happiness and victory. The crushing weight is lifted, and peace remains.",
+        "prescription": "Offer white kola and gin to Ori."
+      }
+    ]
+  },
+  {
+    "index": 218,
+    "name": "Irete-Ose",
+    "alias": ["Irete Se"],
+    "rank": 225,
+    "binary_code": "11011010",
+    "nature": "Beauty/Sin/Earth",
+    "verses": [
+      {
+        "id": "irete-ose-1",
+        "chant_yoruba": "Irete se, o se...",
+        "translation": "Irete creates...",
+        "message": "Beauty emerges from the mud. Do not despise humble beginnings. A woman brings luck to the home.",
+        "prescription": "Offer sweets to Osun."
+      }
+    ]
+  },
+  {
+    "index": 213,
+    "name": "Irete-Ofun",
+    "alias": ["Irete Ile"],
+    "rank": 226,
+    "binary_code": "11010101",
+    "nature": "Miracle/Home/Foundation",
+    "verses": [
+      {
+        "id": "irete-ofun-1",
+        "chant_yoruba": "Irete ile, o le...",
+        "translation": "Irete of the house...",
+        "message": "The house is blessed. A miracle strengthens the foundation of your home. Everything you touch turns white (peaceful).",
+        "prescription": "Offer white chalk and yam to the Earth."
+      }
+    ]
+  },
+
+
+
+  {
+    "index": 175,
+    "name": "Ose-Ogbe",
+    "alias": ["Ose Orogbe"],
+    "rank": 227,
+    "binary_code": "10101111",
+    "nature": "Victory/Prosperity/Destiny",
+    "verses": [
+      {
+        "id": "ose-ogbe-1",
+        "chant_yoruba": "Ose orogbe, o gbe...",
+        "translation": "Ose supports Ogbe...",
+        "message": "Victory is supported by destiny. Good fortune is coming to your house. Your head (Ori) agrees with your success.",
+        "prescription": "Offer kola nuts and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 160,
+    "name": "Ose-Oyeku",
+    "alias": ["Ose Yeku"],
+    "rank": 228,
+    "binary_code": "10100000",
+    "nature": "Ancestral Joy/End of Sorrow",
+    "verses": [
+      {
+        "id": "ose-oyeku-1",
+        "chant_yoruba": "Ose yeku, o ye iku...",
+        "translation": "Ose pleases death...",
+        "message": "Sorrow is turned into joy. The ancestors are pleased. A looming death or failure is averted by a sweet sacrifice.",
+        "prescription": "Offer honey and fruits to the Ancestors."
+      }
+    ]
+  },
+  {
+    "index": 166,
+    "name": "Ose-Iwori",
+    "alias": ["Ose Wori"],
+    "rank": 229,
+    "binary_code": "10100110",
+    "nature": "Transformation/Beauty/Art",
+    "verses": [
+      {
+        "id": "ose-iwori-1",
+        "chant_yoruba": "Ose wori, o wo...",
+        "translation": "Ose looks at beauty...",
+        "message": "You are transforming a messy situation into a work of art. Use your creativity. Beauty will open doors for you.",
+        "prescription": "Offer flowers and sweets to Osun."
+      }
+    ]
+  },
+  {
+    "index": 169,
+    "name": "Ose-Odi",
+    "alias": ["Ose Di"],
+    "rank": 230,
+    "binary_code": "10101001",
+    "nature": "Blocked Joy/Fertility/Wait",
+    "verses": [
+      {
+        "id": "ose-odi-1",
+        "chant_yoruba": "Ose di, o di...",
+        "translation": "Ose binds...",
+        "message": "Happiness is momentarily blocked. You are waiting for a child or a lover. Patience will break the barrier.",
+        "prescription": "Offer snails to Esu."
+      }
+    ]
+  },
+  {
+    "index": 172,
+    "name": "Ose-Irosun",
+    "alias": ["Ose Rosun"],
+    "rank": 231,
+    "binary_code": "10101100",
+    "nature": "Menstrual Health/Blood/Love",
+    "verses": [
+      {
+        "id": "ose-irosun-1",
+        "chant_yoruba": "Ose rosun, o ro...",
+        "translation": "Ose drips...",
+        "message": "Issues with blood or reproductive health. Love requires sacrifice. Do not let depression steal your joy.",
+        "prescription": "Offer red cloth and honey to the Spirits."
+      }
+    ]
+  },
+  {
+    "index": 163,
+    "name": "Ose-Owonrin",
+    "alias": ["Ose Olo"],
+    "rank": 232,
+    "binary_code": "10100011",
+    "nature": "Reversal/Victory/Storm",
+    "verses": [
+      {
+        "id": "ose-owonrin-1",
+        "chant_yoruba": "Ose olo, o lo...",
+        "translation": "Ose grinds...",
+        "message": "A bad situation is reversed into a victory. The storm passes, leaving sweetness behind. Be grateful.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 168,
+    "name": "Ose-Obara",
+    "alias": ["Ose Bara"],
+    "rank": 233,
+    "binary_code": "10101000",
+    "nature": "Wealth/Work/Charm",
+    "verses": [
+      {
+        "id": "ose-obara-1",
+        "chant_yoruba": "Ose bara, o ba...",
+        "translation": "Ose meets...",
+        "message": "Work becomes play. You will make money doing what you love. Your charm attracts customers.",
+        "prescription": "Offer honey and pigeons to Ori."
+      }
+    ]
+  },
+  {
+    "index": 161,
+    "name": "Ose-Okanran",
+    "alias": ["Ose Kanran"],
+    "rank": 234,
+    "binary_code": "10100001",
+    "nature": "Conflict/Love/Jealousy",
+    "verses": [
+      {
+        "id": "ose-okanran-1",
+        "chant_yoruba": "Ose kanran, o kan...",
+        "translation": "Ose hits...",
+        "message": "A lovers' quarrel. Jealousy causes conflict. Do not fight fire with fire; use sweetness to calm the anger.",
+        "prescription": "Offer sweets and eggs to Esu."
+      }
+    ]
+  },
+  {
+    "index": 174,
+    "name": "Ose-Ogunda",
+    "alias": ["Ose Eguntan"],
+    "rank": 235,
+    "binary_code": "10101110",
+    "nature": "Victory/War/Conquest",
+    "verses": [
+      {
+        "id": "ose-ogunda-1",
+        "chant_yoruba": "Ose gun, o gun...",
+        "translation": "Ose stabs...",
+        "message": "Victory over enemies is certain. You will conquer them completely. The war ends in celebration.",
+        "prescription": "Offer a rooster and palm wine to Ogun."
+      }
+    ]
+  },
+  {
+    "index": 167,
+    "name": "Ose-Osa",
+    "alias": ["Ose Sa"],
+    "rank": 236,
+    "binary_code": "10100111",
+    "nature": "Wind/Change/Witchcraft",
+    "verses": [
+      {
+        "id": "ose-osa-1",
+        "chant_yoruba": "Ose sa, o sa...",
+        "translation": "Ose runs...",
+        "message": "The wind brings change. A woman with spiritual power influences your life. Respect the Mothers.",
+        "prescription": "Offer feathers and eggs to Oya."
+      }
+    ]
+  },
+  {
+    "index": 164,
+    "name": "Ose-Ika",
+    "alias": ["Ose Ka"],
+    "rank": 237,
+    "binary_code": "10100100",
+    "nature": "Restraint/Wickedness/Charm",
+    "verses": [
+      {
+        "id": "ose-ika-1",
+        "chant_yoruba": "Ose ka, o ka...",
+        "translation": "Ose restrains...",
+        "message": "Use your charm to restrain your enemies. Wickedness cannot stand against true joy. You are protected.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 162,
+    "name": "Ose-Oturupon",
+    "alias": ["Ose Turupon"],
+    "rank": 238,
+    "binary_code": "10100010",
+    "nature": "Childbirth/Health/Endurance",
+    "verses": [
+      {
+        "id": "ose-oturupon-1",
+        "chant_yoruba": "Ose turupon, o ru...",
+        "translation": "Ose carries...",
+        "message": "A mother carries a child with joy. Endurance leads to a safe delivery. Health improves.",
+        "prescription": "Offer soft yam and oil to the Earth."
+      }
+    ]
+  },
+  {
+    "index": 171,
+    "name": "Ose-Otura",
+    "alias": ["Ose Awurela"],
+    "rank": 239,
+    "binary_code": "10101011",
+    "nature": "Victory/Peace/Wealth",
+    "verses": [
+      {
+        "id": "ose-otura-1",
+        "chant_yoruba": "Ose awurela, o la...",
+        "translation": "Ose is rich...",
+        "message": "This is the Odu of wealth and peace. Victory is sweet. You have overcome the struggle.",
+        "prescription": "Offer white cloth and gin to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 173,
+    "name": "Ose-Irete",
+    "alias": ["Ose Bi"],
+    "rank": 240,
+    "binary_code": "10101101",
+    "nature": "Humility/Crushing/Joy",
+    "verses": [
+      {
+        "id": "ose-irete-1",
+        "chant_yoruba": "Ose bi, o bi...",
+        "translation": "Ose gives birth...",
+        "message": "Humility brings a harvest of joy. Do not step on others to get to the top. The earth supports you.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 165,
+    "name": "Ose-Ofun",
+    "alias": ["Ose Fun"],
+    "rank": 241,
+    "binary_code": "10100101",
+    "nature": "Miracle/Giving/Moon",
+    "verses": [
+      {
+        "id": "ose-ofun-1",
+        "chant_yoruba": "Ose fun, o fun...",
+        "translation": "Ose gives...",
+        "message": "A miracle of love or money. The moon shines on you. Be generous with your good fortune.",
+        "prescription": "Offer white items to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "name": "Ofun-Ogbe",
+    "alias": ["Ofun Nagbe"],
+    "rank": 242,
+    "binary_code": "01011111",
+    "nature": "Resurrection/Giving/Life",
+    "verses": [
+      {
+        "id": "ofun-ogbe-1",
+        "chant_yoruba": "Ofun nagbe, o gbe...",
+        "translation": "Ofun supports Ogbe...",
+        "message": "Ofun breathes life into destiny. Something thought dead is resurrected. A new beginning is gifted to you.",
+        "prescription": "Offer white kola and water to Ori."
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "name": "Ofun-Oyeku",
+    "alias": ["Ofun Yeku"],
+    "rank": 243,
+    "binary_code": "01010000",
+    "nature": "End of Death/Miracle/Old Age",
+    "verses": [
+      {
+        "id": "ofun-oyeku-1",
+        "chant_yoruba": "Ofun yeku, o ye iku...",
+        "translation": "Ofun stops death...",
+        "message": "The ultimate protection against death. A miracle saves the sick. Old age is promised.",
+        "prescription": "Offer a white goat to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 86,
+    "name": "Ofun-Iwori",
+    "alias": ["Ofun Gbo"],
+    "rank": 244,
+    "binary_code": "01010110",
+    "nature": "Wisdom/Vision/Herbs",
+    "verses": [
+      {
+        "id": "ofun-iwori-1",
+        "chant_yoruba": "Ofun gbo, o gbo...",
+        "translation": "Ofun hears...",
+        "message": "Wisdom comes from deep listening. Herbal medicine will cure the ailment. Use your spiritual vision.",
+        "prescription": "Offer herbs and gin to Osanyin."
+      }
+    ]
+  },
+  {
+    "index": 89,
+    "name": "Ofun-Odi",
+    "alias": ["Ofun Di"],
+    "rank": 245,
+    "binary_code": "01011001",
+    "nature": "Blockage Removed/Miracle",
+    "verses": [
+      {
+        "id": "ofun-odi-1",
+        "chant_yoruba": "Ofun di, o di...",
+        "translation": "Ofun binds...",
+        "message": "The blockage is removed by a miracle. What was closed is now open. Fertility is restored.",
+        "prescription": "Offer snails to Esu."
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "name": "Ofun-Irosun",
+    "alias": ["Ofun Rosun"],
+    "rank": 246,
+    "binary_code": "01011100",
+    "nature": "Ancestral Gift/Light",
+    "verses": [
+      {
+        "id": "ofun-irosun-1",
+        "chant_yoruba": "Ofun rosun, o ro...",
+        "translation": "Ofun drips...",
+        "message": "Light enters the darkness. The ancestors send a gift. Depression lifts like mist before the sun.",
+        "prescription": "Offer white cloth to the Egungun."
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "name": "Ofun-Owonrin",
+    "alias": ["Ofun Wonrin"],
+    "rank": 247,
+    "binary_code": "01010011",
+    "nature": "Reversal/Miracle/Chaos",
+    "verses": [
+      {
+        "id": "ofun-owonrin-1",
+        "chant_yoruba": "Ofun wonrin, o won...",
+        "translation": "Ofun crashes...",
+        "message": "Chaos is instantly reversed by a miracle. A sudden stroke of luck changes everything. Be ready.",
+        "prescription": "Offer a tortoise to Esu."
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "name": "Ofun-Obara",
+    "alias": ["Ofun Bala"],
+    "rank": 248,
+    "binary_code": "01011000",
+    "nature": "Wealth/Expansion/Pride",
+    "verses": [
+      {
+        "id": "ofun-obara-1",
+        "chant_yoruba": "Ofun bala, o ba...",
+        "translation": "Ofun meets...",
+        "message": "Wealth expands greatly. You are blessed to be a blessing. Do not let pride taint your white cloth.",
+        "prescription": "Offer white pigeons to Ori."
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "name": "Ofun-Okanran",
+    "alias": ["Ofun Kanran"],
+    "rank": 249,
+    "binary_code": "01010001",
+    "nature": "Justice/Truth/Verdict",
+    "verses": [
+      {
+        "id": "ofun-okanran-1",
+        "chant_yoruba": "Ofun kanran, o kan...",
+        "translation": "Ofun hits...",
+        "message": "Divine justice prevails. The verdict is truth. You are vindicated by the spirits.",
+        "prescription": "Offer white kola nuts to Sango."
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "name": "Ofun-Ogunda",
+    "alias": ["Ofun Gunda"],
+    "rank": 250,
+    "binary_code": "01011110",
+    "nature": "Victory/Surgery/Healing",
+    "verses": [
+      {
+        "id": "ofun-ogunda-1",
+        "chant_yoruba": "Ofun gun, o gun...",
+        "translation": "Ofun cuts...",
+        "message": "A necessary surgery brings healing. The cut is clean. Victory over illness through iron and white cloth.",
+        "prescription": "Offer iron to Ogun and snail water to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 87,
+    "name": "Ofun-Osa",
+    "alias": ["Ofun Sa"],
+    "rank": 251,
+    "binary_code": "01010111",
+    "nature": "Wind/Breath/Spirit",
+    "verses": [
+      {
+        "id": "ofun-osa-1",
+        "chant_yoruba": "Ofun sa, o sa...",
+        "translation": "Ofun breathes...",
+        "message": "The breath of life returns. The wind blows away the evil, leaving only purity. Spiritual elevation.",
+        "prescription": "Offer feathers to Oya."
+      }
+    ]
+  },
+  {
+    "index": 84,
+    "name": "Ofun-Ika",
+    "alias": ["Ofun Ka"],
+    "rank": 252,
+    "binary_code": "01010100",
+    "nature": "Protection/White Shield/Wickedness",
+    "verses": [
+      {
+        "id": "ofun-ika-1",
+        "chant_yoruba": "Ofun ka, o ka...",
+        "translation": "Ofun restrains...",
+        "message": "A white shield protects you from wickedness. The spell is broken by purity. You are untouchable.",
+        "prescription": "Offer a he-goat to Esu."
+      }
+    ]
+  },
+  {
+    "index": 82,
+    "name": "Ofun-Oturupon",
+    "alias": ["Ofun Turupon"],
+    "rank": 253,
+    "binary_code": "01010010",
+    "nature": "Childbirth/Miracle/Care",
+    "verses": [
+      {
+        "id": "ofun-oturupon-1",
+        "chant_yoruba": "Ofun turupon, o ru...",
+        "translation": "Ofun carries...",
+        "message": "A miraculous birth. A child born under this Odu has a special destiny. Great care must be taken.",
+        "prescription": "Offer soft yam and shea butter."
+      }
+    ]
+  },
+  {
+    "index": 91,
+    "name": "Ofun-Otura",
+    "alias": ["Ofun Topola"],
+    "rank": 254,
+    "binary_code": "01011011",
+    "nature": "Peace/Wealth/Giving",
+    "verses": [
+      {
+        "id": "ofun-otura-1",
+        "chant_yoruba": "Ofun topola, o la...",
+        "translation": "Ofun is wealthy...",
+        "message": "Peace and wealth flow together. Giving leads to receiving. A time of great abundance.",
+        "prescription": "Offer white cloth and gin to Obatala."
+      }
+    ]
+  },
+  {
+    "index": 93,
+    "name": "Ofun-Irete",
+    "alias": ["Ofun Birete"],
+    "rank": 255,
+    "binary_code": "01011101",
+    "nature": "Humility/Miracle/Earth",
+    "verses": [
+      {
+        "id": "ofun-irete-1",
+        "chant_yoruba": "Ofun birete, o te...",
+        "translation": "Ofun presses...",
+        "message": "The earth yields its riches to the humble. A miracle springs from the ground. Be grateful.",
+        "prescription": "Offer to the Earth (Ile)."
+      }
+    ]
+  },
+  {
+    "index": 90,
+    "name": "Ofun-Ose",
+    "alias": ["Ofun Se"],
+    "rank": 256,
+    "binary_code": "01011010",
+    "nature": "Beauty/Miracle/Joy",
+    "verses": [
+      {
+        "id": "ofun-ose-1",
+        "chant_yoruba": "Ofun se, o se...",
+        "translation": "Ofun creates...",
+        "message": "The creation of beauty is a miracle. Joy fills the home. Everything you do is blessed with sweetness.",
+        "prescription": "Offer sweets and white cloth to Osun and Obatala."
+      }
+    ]
   }
 ]
+

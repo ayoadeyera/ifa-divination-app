@@ -1,0 +1,1538 @@
+[
+  {
+    "index": 0,
+    "name": "Oyeku Meji",
+    "binary_code": "00000000",
+    "verses": []
+  },
+  {
+    "index": 1,
+    "name": "Oyeku-Okanran",
+    "binary_code": "00000001",
+    "verses": []
+  },
+  {
+    "index": 2,
+    "name": "Oyeku-Unknown",
+    "binary_code": "00000010",
+    "verses": []
+  },
+  {
+    "index": 3,
+    "name": "Oyeku-Ika",
+    "binary_code": "00000011",
+    "verses": []
+  },
+  {
+    "index": 4,
+    "name": "Oyeku-Ofun",
+    "binary_code": "00000100",
+    "verses": []
+  },
+  {
+    "index": 5,
+    "name": "Oyeku-Otura",
+    "binary_code": "00000101",
+    "verses": []
+  },
+  {
+    "index": 6,
+    "name": "Oyeku-Iwori",
+    "binary_code": "00000110",
+    "verses": []
+  },
+  {
+    "index": 7,
+    "name": "Oyeku-Osa",
+    "binary_code": "00000111",
+    "verses": []
+  },
+  {
+    "index": 8,
+    "name": "Oyeku-Ose",
+    "binary_code": "00001000",
+    "verses": []
+  },
+  {
+    "index": 9,
+    "name": "Oyeku-Odi",
+    "binary_code": "00001001",
+    "verses": []
+  },
+  {
+    "index": 10,
+    "name": "Oyeku-Irete",
+    "binary_code": "00001010",
+    "verses": []
+  },
+  {
+    "index": 11,
+    "name": "Oyeku-Owonrin",
+    "binary_code": "00001011",
+    "verses": []
+  },
+  {
+    "index": 12,
+    "name": "Oyeku-Oturupon",
+    "binary_code": "00001100",
+    "verses": []
+  },
+  {
+    "index": 13,
+    "name": "Oyeku-Irosun",
+    "binary_code": "00001101",
+    "verses": []
+  },
+  {
+    "index": 14,
+    "name": "Oyeku-Ogunda",
+    "binary_code": "00001110",
+    "verses": []
+  },
+  {
+    "index": 15,
+    "name": "Oyeku-Ogbe",
+    "binary_code": "00001111",
+    "verses": []
+  },
+  {
+    "index": 16,
+    "name": "Okanran-Oyeku",
+    "binary_code": "00010000",
+    "verses": []
+  },
+  {
+    "index": 17,
+    "name": "Okanran Meji",
+    "binary_code": "00010001",
+    "verses": []
+  },
+  {
+    "index": 18,
+    "name": "Okanran-Unknown",
+    "binary_code": "00010010",
+    "verses": []
+  },
+  {
+    "index": 19,
+    "name": "Okanran-Ika",
+    "binary_code": "00010011",
+    "verses": []
+  },
+  {
+    "index": 20,
+    "name": "Okanran-Ofun",
+    "binary_code": "00010100",
+    "verses": []
+  },
+  {
+    "index": 21,
+    "name": "Okanran-Otura",
+    "binary_code": "00010101",
+    "verses": []
+  },
+  {
+    "index": 22,
+    "name": "Okanran-Iwori",
+    "binary_code": "00010110",
+    "verses": []
+  },
+  {
+    "index": 23,
+    "name": "Okanran-Osa",
+    "binary_code": "00010111",
+    "verses": []
+  },
+  {
+    "index": 24,
+    "name": "Okanran-Ose",
+    "binary_code": "00011000",
+    "verses": []
+  },
+  {
+    "index": 25,
+    "name": "Okanran-Odi",
+    "binary_code": "00011001",
+    "verses": []
+  },
+  {
+    "index": 26,
+    "name": "Okanran-Irete",
+    "binary_code": "00011010",
+    "verses": []
+  },
+  {
+    "index": 27,
+    "name": "Okanran-Owonrin",
+    "binary_code": "00011011",
+    "verses": []
+  },
+  {
+    "index": 28,
+    "name": "Okanran-Oturupon",
+    "binary_code": "00011100",
+    "verses": []
+  },
+  {
+    "index": 29,
+    "name": "Okanran-Irosun",
+    "binary_code": "00011101",
+    "verses": []
+  },
+  {
+    "index": 30,
+    "name": "Okanran-Ogunda",
+    "binary_code": "00011110",
+    "verses": []
+  },
+  {
+    "index": 31,
+    "name": "Okanran-Ogbe",
+    "binary_code": "00011111",
+    "verses": []
+  },
+  {
+    "index": 32,
+    "name": "Unknown-Oyeku",
+    "binary_code": "00100000",
+    "verses": []
+  },
+  {
+    "index": 33,
+    "name": "Unknown-Okanran",
+    "binary_code": "00100001",
+    "verses": []
+  },
+  {
+    "index": 34,
+    "name": "Unknown Meji",
+    "binary_code": "00100010",
+    "verses": []
+  },
+  {
+    "index": 35,
+    "name": "Unknown-Ika",
+    "binary_code": "00100011",
+    "verses": []
+  },
+  {
+    "index": 36,
+    "name": "Unknown-Ofun",
+    "binary_code": "00100100",
+    "verses": []
+  },
+  {
+    "index": 37,
+    "name": "Unknown-Otura",
+    "binary_code": "00100101",
+    "verses": []
+  },
+  {
+    "index": 38,
+    "name": "Unknown-Iwori",
+    "binary_code": "00100110",
+    "verses": []
+  },
+  {
+    "index": 39,
+    "name": "Unknown-Osa",
+    "binary_code": "00100111",
+    "verses": []
+  },
+  {
+    "index": 40,
+    "name": "Unknown-Ose",
+    "binary_code": "00101000",
+    "verses": []
+  },
+  {
+    "index": 41,
+    "name": "Unknown-Odi",
+    "binary_code": "00101001",
+    "verses": []
+  },
+  {
+    "index": 42,
+    "name": "Unknown-Irete",
+    "binary_code": "00101010",
+    "verses": []
+  },
+  {
+    "index": 43,
+    "name": "Unknown-Owonrin",
+    "binary_code": "00101011",
+    "verses": []
+  },
+  {
+    "index": 44,
+    "name": "Unknown-Oturupon",
+    "binary_code": "00101100",
+    "verses": []
+  },
+  {
+    "index": 45,
+    "name": "Unknown-Irosun",
+    "binary_code": "00101101",
+    "verses": []
+  },
+  {
+    "index": 46,
+    "name": "Unknown-Ogunda",
+    "binary_code": "00101110",
+    "verses": []
+  },
+  {
+    "index": 47,
+    "name": "Unknown-Ogbe",
+    "binary_code": "00101111",
+    "verses": []
+  },
+  {
+    "index": 48,
+    "name": "Ika-Oyeku",
+    "binary_code": "00110000",
+    "verses": []
+  },
+  {
+    "index": 49,
+    "name": "Ika-Okanran",
+    "binary_code": "00110001",
+    "verses": []
+  },
+  {
+    "index": 50,
+    "name": "Ika-Unknown",
+    "binary_code": "00110010",
+    "verses": []
+  },
+  {
+    "index": 51,
+    "name": "Ika Meji",
+    "binary_code": "00110011",
+    "verses": []
+  },
+  {
+    "index": 52,
+    "name": "Ika-Ofun",
+    "binary_code": "00110100",
+    "verses": []
+  },
+  {
+    "index": 53,
+    "name": "Ika-Otura",
+    "binary_code": "00110101",
+    "verses": []
+  },
+  {
+    "index": 54,
+    "name": "Ika-Iwori",
+    "binary_code": "00110110",
+    "verses": []
+  },
+  {
+    "index": 55,
+    "name": "Ika-Osa",
+    "binary_code": "00110111",
+    "verses": []
+  },
+  {
+    "index": 56,
+    "name": "Ika-Ose",
+    "binary_code": "00111000",
+    "verses": []
+  },
+  {
+    "index": 57,
+    "name": "Ika-Odi",
+    "binary_code": "00111001",
+    "verses": []
+  },
+  {
+    "index": 58,
+    "name": "Ika-Irete",
+    "binary_code": "00111010",
+    "verses": []
+  },
+  {
+    "index": 59,
+    "name": "Ika-Owonrin",
+    "binary_code": "00111011",
+    "verses": []
+  },
+  {
+    "index": 60,
+    "name": "Ika-Oturupon",
+    "binary_code": "00111100",
+    "verses": []
+  },
+  {
+    "index": 61,
+    "name": "Ika-Irosun",
+    "binary_code": "00111101",
+    "verses": []
+  },
+  {
+    "index": 62,
+    "name": "Ika-Ogunda",
+    "binary_code": "00111110",
+    "verses": []
+  },
+  {
+    "index": 63,
+    "name": "Ika-Ogbe",
+    "binary_code": "00111111",
+    "verses": []
+  },
+  {
+    "index": 64,
+    "name": "Ofun-Oyeku",
+    "binary_code": "01000000",
+    "verses": []
+  },
+  {
+    "index": 65,
+    "name": "Ofun-Okanran",
+    "binary_code": "01000001",
+    "verses": []
+  },
+  {
+    "index": 66,
+    "name": "Ofun-Unknown",
+    "binary_code": "01000010",
+    "verses": []
+  },
+  {
+    "index": 67,
+    "name": "Ofun-Ika",
+    "binary_code": "01000011",
+    "verses": []
+  },
+  {
+    "index": 68,
+    "name": "Ofun Meji",
+    "binary_code": "01000100",
+    "verses": []
+  },
+  {
+    "index": 69,
+    "name": "Ofun-Otura",
+    "binary_code": "01000101",
+    "verses": []
+  },
+  {
+    "index": 70,
+    "name": "Ofun-Iwori",
+    "binary_code": "01000110",
+    "verses": []
+  },
+  {
+    "index": 71,
+    "name": "Ofun-Osa",
+    "binary_code": "01000111",
+    "verses": []
+  },
+  {
+    "index": 72,
+    "name": "Ofun-Ose",
+    "binary_code": "01001000",
+    "verses": []
+  },
+  {
+    "index": 73,
+    "name": "Ofun-Odi",
+    "binary_code": "01001001",
+    "verses": []
+  },
+  {
+    "index": 74,
+    "name": "Ofun-Irete",
+    "binary_code": "01001010",
+    "verses": []
+  },
+  {
+    "index": 75,
+    "name": "Ofun-Owonrin",
+    "binary_code": "01001011",
+    "verses": []
+  },
+  {
+    "index": 76,
+    "name": "Ofun-Oturupon",
+    "binary_code": "01001100",
+    "verses": []
+  },
+  {
+    "index": 77,
+    "name": "Ofun-Irosun",
+    "binary_code": "01001101",
+    "verses": []
+  },
+  {
+    "index": 78,
+    "name": "Ofun-Ogunda",
+    "binary_code": "01001110",
+    "verses": []
+  },
+  {
+    "index": 79,
+    "name": "Ofun-Ogbe",
+    "binary_code": "01001111",
+    "verses": []
+  },
+  {
+    "index": 80,
+    "name": "Otura-Oyeku",
+    "binary_code": "01010000",
+    "verses": []
+  },
+  {
+    "index": 81,
+    "name": "Otura-Okanran",
+    "binary_code": "01010001",
+    "verses": []
+  },
+  {
+    "index": 82,
+    "name": "Otura-Unknown",
+    "binary_code": "01010010",
+    "verses": []
+  },
+  {
+    "index": 83,
+    "name": "Otura-Ika",
+    "binary_code": "01010011",
+    "verses": []
+  },
+  {
+    "index": 84,
+    "name": "Otura-Ofun",
+    "binary_code": "01010100",
+    "verses": []
+  },
+  {
+    "index": 85,
+    "name": "Otura Meji",
+    "binary_code": "01010101",
+    "verses": []
+  },
+  {
+    "index": 86,
+    "name": "Otura-Iwori",
+    "binary_code": "01010110",
+    "verses": []
+  },
+  {
+    "index": 87,
+    "name": "Otura-Osa",
+    "binary_code": "01010111",
+    "verses": []
+  },
+  {
+    "index": 88,
+    "name": "Otura-Ose",
+    "binary_code": "01011000",
+    "verses": []
+  },
+  {
+    "index": 89,
+    "name": "Otura-Odi",
+    "binary_code": "01011001",
+    "verses": []
+  },
+  {
+    "index": 90,
+    "name": "Otura-Irete",
+    "binary_code": "01011010",
+    "verses": []
+  },
+  {
+    "index": 91,
+    "name": "Otura-Owonrin",
+    "binary_code": "01011011",
+    "verses": []
+  },
+  {
+    "index": 92,
+    "name": "Otura-Oturupon",
+    "binary_code": "01011100",
+    "verses": []
+  },
+  {
+    "index": 93,
+    "name": "Otura-Irosun",
+    "binary_code": "01011101",
+    "verses": []
+  },
+  {
+    "index": 94,
+    "name": "Otura-Ogunda",
+    "binary_code": "01011110",
+    "verses": []
+  },
+  {
+    "index": 95,
+    "name": "Otura-Ogbe",
+    "binary_code": "01011111",
+    "verses": []
+  },
+  {
+    "index": 96,
+    "name": "Iwori-Oyeku",
+    "binary_code": "01100000",
+    "verses": []
+  },
+  {
+    "index": 97,
+    "name": "Iwori-Okanran",
+    "binary_code": "01100001",
+    "verses": []
+  },
+  {
+    "index": 98,
+    "name": "Iwori-Unknown",
+    "binary_code": "01100010",
+    "verses": []
+  },
+  {
+    "index": 99,
+    "name": "Iwori-Ika",
+    "binary_code": "01100011",
+    "verses": []
+  },
+  {
+    "index": 100,
+    "name": "Iwori-Ofun",
+    "binary_code": "01100100",
+    "verses": []
+  },
+  {
+    "index": 101,
+    "name": "Iwori-Otura",
+    "binary_code": "01100101",
+    "verses": []
+  },
+  {
+    "index": 102,
+    "name": "Iwori Meji",
+    "binary_code": "01100110",
+    "verses": []
+  },
+  {
+    "index": 103,
+    "name": "Iwori-Osa",
+    "binary_code": "01100111",
+    "verses": []
+  },
+  {
+    "index": 104,
+    "name": "Iwori-Ose",
+    "binary_code": "01101000",
+    "verses": []
+  },
+  {
+    "index": 105,
+    "name": "Iwori-Odi",
+    "binary_code": "01101001",
+    "verses": []
+  },
+  {
+    "index": 106,
+    "name": "Iwori-Irete",
+    "binary_code": "01101010",
+    "verses": []
+  },
+  {
+    "index": 107,
+    "name": "Iwori-Owonrin",
+    "binary_code": "01101011",
+    "verses": []
+  },
+  {
+    "index": 108,
+    "name": "Iwori-Oturupon",
+    "binary_code": "01101100",
+    "verses": []
+  },
+  {
+    "index": 109,
+    "name": "Iwori-Irosun",
+    "binary_code": "01101101",
+    "verses": []
+  },
+  {
+    "index": 110,
+    "name": "Iwori-Ogunda",
+    "binary_code": "01101110",
+    "verses": []
+  },
+  {
+    "index": 111,
+    "name": "Iwori-Ogbe",
+    "binary_code": "01101111",
+    "verses": []
+  },
+  {
+    "index": 112,
+    "name": "Osa-Oyeku",
+    "binary_code": "01110000",
+    "verses": []
+  },
+  {
+    "index": 113,
+    "name": "Osa-Okanran",
+    "binary_code": "01110001",
+    "verses": []
+  },
+  {
+    "index": 114,
+    "name": "Osa-Unknown",
+    "binary_code": "01110010",
+    "verses": []
+  },
+  {
+    "index": 115,
+    "name": "Osa-Ika",
+    "binary_code": "01110011",
+    "verses": []
+  },
+  {
+    "index": 116,
+    "name": "Osa-Ofun",
+    "binary_code": "01110100",
+    "verses": []
+  },
+  {
+    "index": 117,
+    "name": "Osa-Otura",
+    "binary_code": "01110101",
+    "verses": []
+  },
+  {
+    "index": 118,
+    "name": "Osa-Iwori",
+    "binary_code": "01110110",
+    "verses": []
+  },
+  {
+    "index": 119,
+    "name": "Osa Meji",
+    "binary_code": "01110111",
+    "verses": []
+  },
+  {
+    "index": 120,
+    "name": "Osa-Ose",
+    "binary_code": "01111000",
+    "verses": []
+  },
+  {
+    "index": 121,
+    "name": "Osa-Odi",
+    "binary_code": "01111001",
+    "verses": []
+  },
+  {
+    "index": 122,
+    "name": "Osa-Irete",
+    "binary_code": "01111010",
+    "verses": []
+  },
+  {
+    "index": 123,
+    "name": "Osa-Owonrin",
+    "binary_code": "01111011",
+    "verses": []
+  },
+  {
+    "index": 124,
+    "name": "Osa-Oturupon",
+    "binary_code": "01111100",
+    "verses": []
+  },
+  {
+    "index": 125,
+    "name": "Osa-Irosun",
+    "binary_code": "01111101",
+    "verses": []
+  },
+  {
+    "index": 126,
+    "name": "Osa-Ogunda",
+    "binary_code": "01111110",
+    "verses": []
+  },
+  {
+    "index": 127,
+    "name": "Osa-Ogbe",
+    "binary_code": "01111111",
+    "verses": []
+  },
+  {
+    "index": 128,
+    "name": "Ose-Oyeku",
+    "binary_code": "10000000",
+    "verses": []
+  },
+  {
+    "index": 129,
+    "name": "Ose-Okanran",
+    "binary_code": "10000001",
+    "verses": []
+  },
+  {
+    "index": 130,
+    "name": "Ose-Unknown",
+    "binary_code": "10000010",
+    "verses": []
+  },
+  {
+    "index": 131,
+    "name": "Ose-Ika",
+    "binary_code": "10000011",
+    "verses": []
+  },
+  {
+    "index": 132,
+    "name": "Ose-Ofun",
+    "binary_code": "10000100",
+    "verses": []
+  },
+  {
+    "index": 133,
+    "name": "Ose-Otura",
+    "binary_code": "10000101",
+    "verses": []
+  },
+  {
+    "index": 134,
+    "name": "Ose-Iwori",
+    "binary_code": "10000110",
+    "verses": []
+  },
+  {
+    "index": 135,
+    "name": "Ose-Osa",
+    "binary_code": "10000111",
+    "verses": []
+  },
+  {
+    "index": 136,
+    "name": "Ose Meji",
+    "binary_code": "10001000",
+    "verses": []
+  },
+  {
+    "index": 137,
+    "name": "Ose-Odi",
+    "binary_code": "10001001",
+    "verses": []
+  },
+  {
+    "index": 138,
+    "name": "Ose-Irete",
+    "binary_code": "10001010",
+    "verses": []
+  },
+  {
+    "index": 139,
+    "name": "Ose-Owonrin",
+    "binary_code": "10001011",
+    "verses": []
+  },
+  {
+    "index": 140,
+    "name": "Ose-Oturupon",
+    "binary_code": "10001100",
+    "verses": []
+  },
+  {
+    "index": 141,
+    "name": "Ose-Irosun",
+    "binary_code": "10001101",
+    "verses": []
+  },
+  {
+    "index": 142,
+    "name": "Ose-Ogunda",
+    "binary_code": "10001110",
+    "verses": []
+  },
+  {
+    "index": 143,
+    "name": "Ose-Ogbe",
+    "binary_code": "10001111",
+    "verses": []
+  },
+  {
+    "index": 144,
+    "name": "Odi-Oyeku",
+    "binary_code": "10010000",
+    "verses": []
+  },
+  {
+    "index": 145,
+    "name": "Odi-Okanran",
+    "binary_code": "10010001",
+    "verses": []
+  },
+  {
+    "index": 146,
+    "name": "Odi-Unknown",
+    "binary_code": "10010010",
+    "verses": []
+  },
+  {
+    "index": 147,
+    "name": "Odi-Ika",
+    "binary_code": "10010011",
+    "verses": []
+  },
+  {
+    "index": 148,
+    "name": "Odi-Ofun",
+    "binary_code": "10010100",
+    "verses": []
+  },
+  {
+    "index": 149,
+    "name": "Odi-Otura",
+    "binary_code": "10010101",
+    "verses": []
+  },
+  {
+    "index": 150,
+    "name": "Odi-Iwori",
+    "binary_code": "10010110",
+    "verses": []
+  },
+  {
+    "index": 151,
+    "name": "Odi-Osa",
+    "binary_code": "10010111",
+    "verses": []
+  },
+  {
+    "index": 152,
+    "name": "Odi-Ose",
+    "binary_code": "10011000",
+    "verses": []
+  },
+  {
+    "index": 153,
+    "name": "Odi Meji",
+    "binary_code": "10011001",
+    "verses": []
+  },
+  {
+    "index": 154,
+    "name": "Odi-Irete",
+    "binary_code": "10011010",
+    "verses": []
+  },
+  {
+    "index": 155,
+    "name": "Odi-Owonrin",
+    "binary_code": "10011011",
+    "verses": []
+  },
+  {
+    "index": 156,
+    "name": "Odi-Oturupon",
+    "binary_code": "10011100",
+    "verses": []
+  },
+  {
+    "index": 157,
+    "name": "Odi-Irosun",
+    "binary_code": "10011101",
+    "verses": []
+  },
+  {
+    "index": 158,
+    "name": "Odi-Ogunda",
+    "binary_code": "10011110",
+    "verses": []
+  },
+  {
+    "index": 159,
+    "name": "Odi-Ogbe",
+    "binary_code": "10011111",
+    "verses": []
+  },
+  {
+    "index": 160,
+    "name": "Irete-Oyeku",
+    "binary_code": "10100000",
+    "verses": []
+  },
+  {
+    "index": 161,
+    "name": "Irete-Okanran",
+    "binary_code": "10100001",
+    "verses": []
+  },
+  {
+    "index": 162,
+    "name": "Irete-Unknown",
+    "binary_code": "10100010",
+    "verses": []
+  },
+  {
+    "index": 163,
+    "name": "Irete-Ika",
+    "binary_code": "10100011",
+    "verses": []
+  },
+  {
+    "index": 164,
+    "name": "Irete-Ofun",
+    "binary_code": "10100100",
+    "verses": []
+  },
+  {
+    "index": 165,
+    "name": "Irete-Otura",
+    "binary_code": "10100101",
+    "verses": []
+  },
+  {
+    "index": 166,
+    "name": "Irete-Iwori",
+    "binary_code": "10100110",
+    "verses": []
+  },
+  {
+    "index": 167,
+    "name": "Irete-Osa",
+    "binary_code": "10100111",
+    "verses": []
+  },
+  {
+    "index": 168,
+    "name": "Irete-Ose",
+    "binary_code": "10101000",
+    "verses": []
+  },
+  {
+    "index": 169,
+    "name": "Irete-Odi",
+    "binary_code": "10101001",
+    "verses": []
+  },
+  {
+    "index": 170,
+    "name": "Irete Meji",
+    "binary_code": "10101010",
+    "verses": []
+  },
+  {
+    "index": 171,
+    "name": "Irete-Owonrin",
+    "binary_code": "10101011",
+    "verses": []
+  },
+  {
+    "index": 172,
+    "name": "Irete-Oturupon",
+    "binary_code": "10101100",
+    "verses": []
+  },
+  {
+    "index": 173,
+    "name": "Irete-Irosun",
+    "binary_code": "10101101",
+    "verses": []
+  },
+  {
+    "index": 174,
+    "name": "Irete-Ogunda",
+    "binary_code": "10101110",
+    "verses": []
+  },
+  {
+    "index": 175,
+    "name": "Irete-Ogbe",
+    "binary_code": "10101111",
+    "verses": []
+  },
+  {
+    "index": 176,
+    "name": "Owonrin-Oyeku",
+    "binary_code": "10110000",
+    "verses": []
+  },
+  {
+    "index": 177,
+    "name": "Owonrin-Okanran",
+    "binary_code": "10110001",
+    "verses": []
+  },
+  {
+    "index": 178,
+    "name": "Owonrin-Unknown",
+    "binary_code": "10110010",
+    "verses": []
+  },
+  {
+    "index": 179,
+    "name": "Owonrin-Ika",
+    "binary_code": "10110011",
+    "verses": []
+  },
+  {
+    "index": 180,
+    "name": "Owonrin-Ofun",
+    "binary_code": "10110100",
+    "verses": []
+  },
+  {
+    "index": 181,
+    "name": "Owonrin-Otura",
+    "binary_code": "10110101",
+    "verses": []
+  },
+  {
+    "index": 182,
+    "name": "Owonrin-Iwori",
+    "binary_code": "10110110",
+    "verses": []
+  },
+  {
+    "index": 183,
+    "name": "Owonrin-Osa",
+    "binary_code": "10110111",
+    "verses": []
+  },
+  {
+    "index": 184,
+    "name": "Owonrin-Ose",
+    "binary_code": "10111000",
+    "verses": []
+  },
+  {
+    "index": 185,
+    "name": "Owonrin-Odi",
+    "binary_code": "10111001",
+    "verses": []
+  },
+  {
+    "index": 186,
+    "name": "Owonrin-Irete",
+    "binary_code": "10111010",
+    "verses": []
+  },
+  {
+    "index": 187,
+    "name": "Owonrin Meji",
+    "binary_code": "10111011",
+    "verses": []
+  },
+  {
+    "index": 188,
+    "name": "Owonrin-Oturupon",
+    "binary_code": "10111100",
+    "verses": []
+  },
+  {
+    "index": 189,
+    "name": "Owonrin-Irosun",
+    "binary_code": "10111101",
+    "verses": []
+  },
+  {
+    "index": 190,
+    "name": "Owonrin-Ogunda",
+    "binary_code": "10111110",
+    "verses": []
+  },
+  {
+    "index": 191,
+    "name": "Owonrin-Ogbe",
+    "binary_code": "10111111",
+    "verses": []
+  },
+  {
+    "index": 192,
+    "name": "Oturupon-Oyeku",
+    "binary_code": "11000000",
+    "verses": []
+  },
+  {
+    "index": 193,
+    "name": "Oturupon-Okanran",
+    "binary_code": "11000001",
+    "verses": []
+  },
+  {
+    "index": 194,
+    "name": "Oturupon-Unknown",
+    "binary_code": "11000010",
+    "verses": []
+  },
+  {
+    "index": 195,
+    "name": "Oturupon-Ika",
+    "binary_code": "11000011",
+    "verses": []
+  },
+  {
+    "index": 196,
+    "name": "Oturupon-Ofun",
+    "binary_code": "11000100",
+    "verses": []
+  },
+  {
+    "index": 197,
+    "name": "Oturupon-Otura",
+    "binary_code": "11000101",
+    "verses": []
+  },
+  {
+    "index": 198,
+    "name": "Oturupon-Iwori",
+    "binary_code": "11000110",
+    "verses": []
+  },
+  {
+    "index": 199,
+    "name": "Oturupon-Osa",
+    "binary_code": "11000111",
+    "verses": []
+  },
+  {
+    "index": 200,
+    "name": "Oturupon-Ose",
+    "binary_code": "11001000",
+    "verses": []
+  },
+  {
+    "index": 201,
+    "name": "Oturupon-Odi",
+    "binary_code": "11001001",
+    "verses": []
+  },
+  {
+    "index": 202,
+    "name": "Oturupon-Irete",
+    "binary_code": "11001010",
+    "verses": []
+  },
+  {
+    "index": 203,
+    "name": "Oturupon-Owonrin",
+    "binary_code": "11001011",
+    "verses": []
+  },
+  {
+    "index": 204,
+    "name": "Oturupon Meji",
+    "binary_code": "11001100",
+    "verses": []
+  },
+  {
+    "index": 205,
+    "name": "Oturupon-Irosun",
+    "binary_code": "11001101",
+    "verses": []
+  },
+  {
+    "index": 206,
+    "name": "Oturupon-Ogunda",
+    "binary_code": "11001110",
+    "verses": []
+  },
+  {
+    "index": 207,
+    "name": "Oturupon-Ogbe",
+    "binary_code": "11001111",
+    "verses": []
+  },
+  {
+    "index": 208,
+    "name": "Irosun-Oyeku",
+    "binary_code": "11010000",
+    "verses": []
+  },
+  {
+    "index": 209,
+    "name": "Irosun-Okanran",
+    "binary_code": "11010001",
+    "verses": []
+  },
+  {
+    "index": 210,
+    "name": "Irosun-Unknown",
+    "binary_code": "11010010",
+    "verses": []
+  },
+  {
+    "index": 211,
+    "name": "Irosun-Ika",
+    "binary_code": "11010011",
+    "verses": []
+  },
+  {
+    "index": 212,
+    "name": "Irosun-Ofun",
+    "binary_code": "11010100",
+    "verses": []
+  },
+  {
+    "index": 213,
+    "name": "Irosun-Otura",
+    "binary_code": "11010101",
+    "verses": []
+  },
+  {
+    "index": 214,
+    "name": "Irosun-Iwori",
+    "binary_code": "11010110",
+    "verses": []
+  },
+  {
+    "index": 215,
+    "name": "Irosun-Osa",
+    "binary_code": "11010111",
+    "verses": []
+  },
+  {
+    "index": 216,
+    "name": "Irosun-Ose",
+    "binary_code": "11011000",
+    "verses": []
+  },
+  {
+    "index": 217,
+    "name": "Irosun-Odi",
+    "binary_code": "11011001",
+    "verses": []
+  },
+  {
+    "index": 218,
+    "name": "Irosun-Irete",
+    "binary_code": "11011010",
+    "verses": []
+  },
+  {
+    "index": 219,
+    "name": "Irosun-Owonrin",
+    "binary_code": "11011011",
+    "verses": []
+  },
+  {
+    "index": 220,
+    "name": "Irosun-Oturupon",
+    "binary_code": "11011100",
+    "verses": []
+  },
+  {
+    "index": 221,
+    "name": "Irosun Meji",
+    "binary_code": "11011101",
+    "verses": []
+  },
+  {
+    "index": 222,
+    "name": "Irosun-Ogunda",
+    "binary_code": "11011110",
+    "verses": []
+  },
+  {
+    "index": 223,
+    "name": "Irosun-Ogbe",
+    "binary_code": "11011111",
+    "verses": []
+  },
+  {
+    "index": 224,
+    "name": "Ogunda-Oyeku",
+    "binary_code": "11100000",
+    "verses": []
+  },
+  {
+    "index": 225,
+    "name": "Ogunda-Okanran",
+    "binary_code": "11100001",
+    "verses": []
+  },
+  {
+    "index": 226,
+    "name": "Ogunda-Unknown",
+    "binary_code": "11100010",
+    "verses": []
+  },
+  {
+    "index": 227,
+    "name": "Ogunda-Ika",
+    "binary_code": "11100011",
+    "verses": []
+  },
+  {
+    "index": 228,
+    "name": "Ogunda-Ofun",
+    "binary_code": "11100100",
+    "verses": []
+  },
+  {
+    "index": 229,
+    "name": "Ogunda-Otura",
+    "binary_code": "11100101",
+    "verses": []
+  },
+  {
+    "index": 230,
+    "name": "Ogunda-Iwori",
+    "binary_code": "11100110",
+    "verses": []
+  },
+  {
+    "index": 231,
+    "name": "Ogunda-Osa",
+    "binary_code": "11100111",
+    "verses": []
+  },
+  {
+    "index": 232,
+    "name": "Ogunda-Ose",
+    "binary_code": "11101000",
+    "verses": []
+  },
+  {
+    "index": 233,
+    "name": "Ogunda-Odi",
+    "binary_code": "11101001",
+    "verses": []
+  },
+  {
+    "index": 234,
+    "name": "Ogunda-Irete",
+    "binary_code": "11101010",
+    "verses": []
+  },
+  {
+    "index": 235,
+    "name": "Ogunda-Owonrin",
+    "binary_code": "11101011",
+    "verses": []
+  },
+  {
+    "index": 236,
+    "name": "Ogunda-Oturupon",
+    "binary_code": "11101100",
+    "verses": []
+  },
+  {
+    "index": 237,
+    "name": "Ogunda-Irosun",
+    "binary_code": "11101101",
+    "verses": []
+  },
+  {
+    "index": 238,
+    "name": "Ogunda Meji",
+    "binary_code": "11101110",
+    "verses": []
+  },
+  {
+    "index": 239,
+    "name": "Ogunda-Ogbe",
+    "binary_code": "11101111",
+    "verses": []
+  },
+  {
+    "index": 240,
+    "name": "Ogbe-Oyeku",
+    "binary_code": "11110000",
+    "verses": []
+  },
+  {
+    "index": 241,
+    "name": "Ogbe-Okanran",
+    "binary_code": "11110001",
+    "verses": []
+  },
+  {
+    "index": 242,
+    "name": "Ogbe-Unknown",
+    "binary_code": "11110010",
+    "verses": []
+  },
+  {
+    "index": 243,
+    "name": "Ogbe-Ika",
+    "binary_code": "11110011",
+    "verses": []
+  },
+  {
+    "index": 244,
+    "name": "Ogbe-Ofun",
+    "binary_code": "11110100",
+    "verses": []
+  },
+  {
+    "index": 245,
+    "name": "Ogbe-Otura",
+    "binary_code": "11110101",
+    "verses": []
+  },
+  {
+    "index": 246,
+    "name": "Ogbe-Iwori",
+    "binary_code": "11110110",
+    "verses": []
+  },
+  {
+    "index": 247,
+    "name": "Ogbe-Osa",
+    "binary_code": "11110111",
+    "verses": []
+  },
+  {
+    "index": 248,
+    "name": "Ogbe-Ose",
+    "binary_code": "11111000",
+    "verses": []
+  },
+  {
+    "index": 249,
+    "name": "Ogbe-Odi",
+    "binary_code": "11111001",
+    "verses": []
+  },
+  {
+    "index": 250,
+    "name": "Ogbe-Irete",
+    "binary_code": "11111010",
+    "verses": []
+  },
+  {
+    "index": 251,
+    "name": "Ogbe-Owonrin",
+    "binary_code": "11111011",
+    "verses": []
+  },
+  {
+    "index": 252,
+    "name": "Ogbe-Oturupon",
+    "binary_code": "11111100",
+    "verses": []
+  },
+  {
+    "index": 253,
+    "name": "Ogbe-Irosun",
+    "binary_code": "11111101",
+    "verses": []
+  },
+  {
+    "index": 254,
+    "name": "Ogbe-Ogunda",
+    "binary_code": "11111110",
+    "verses": []
+  },
+  {
+    "index": 255,
+    "name": "Eji Ogbe",
+    "binary_code": "11111111",
+    "verses": []
+  }
+]
