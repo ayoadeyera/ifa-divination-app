@@ -1,14 +1,16 @@
 import { IfaEntropyCaster } from './lib/EntropyCaster.js';
 import { IfaOduMapper } from './lib/OduMapper.js';
+import { SoundEngine } from './lib/SoundEngine.js'; // NEW IMPORT
 
 /**
  * IFA DIVINATION APP - MAIN CONTROLLER
- * Connects UI, Logic, and Data.
+ * Connects UI, Logic, Data, and Audio.
  */
 
 // 1. Initialize Logic Classes
 const caster = new IfaEntropyCaster();
 const mapper = new IfaOduMapper();
+const sfx = new SoundEngine(); // NEW INSTANCE
 
 // 2. DOM Elements Selection
 const ui = {
@@ -18,7 +20,7 @@ const ui = {
     instruction: document.getElementById('instruction-text'),
     oduTitle: document.getElementById('odu-name'),
     verseContainer: document.getElementById('verse-content'),
-    shrineHeader: document.querySelector('.shrine-header') // For reset click
+    shrineHeader: document.querySelector('.shrine-header') 
 };
 
 // State Variable
@@ -27,46 +29,43 @@ let isCasting = false;
 // 3. Event Listeners
 ui.opon.addEventListener('click', handleInteraction);
 ui.shrineHeader.addEventListener('click', handleReset);
-window.addEventListener('opele-impact', handleAutoCast); // Listens for the "Drop" event
+window.addEventListener('opele-impact', handleAutoCast); 
 
 /**
  * MAIN INTERACTION HANDLER
- * Handles the flow: Idle -> Request Sensors -> Shaking -> Result
  */
 async function handleInteraction() {
-    // If we are already in reading mode, ignore clicks on the Opon
     if (ui.container.classList.contains('state-reading')) return;
+
+    // --- AUDIO HOOK: Unlock Audio Context on first tap ---
+    sfx.init(); 
 
     if (!isCasting) {
         // STEP A: START CASTING
         try {
             ui.instruction.innerText = "Initializing Sensors...";
             
-            // This triggers the permission popup on iOS
             await caster.startSession();
             
             isCasting = true;
             ui.instruction.innerText = "SHAKE DEVICE OR DROP ON PAD";
-            ui.instruction.style.color = "#ffdd9e"; // Make it glow/bright
-            
-            // Add a visual 'shaking' effect to the UI (CSS animation could go here)
+            ui.instruction.style.color = "#ffdd9e"; 
             ui.opon.style.transform = "scale(1.05)";
 
         } catch (error) {
             console.error("Sensor Error:", error);
             ui.instruction.innerText = "Sensors blocked. Tap again to force cast.";
-            // Fallback: If sensors fail, clicking again runs a simulation
+            // Fallback: Enable manual mode immediately
             isCasting = true; 
         }
     } else {
-        // STEP B: MANUAL STOP (User tapped again instead of waiting/dropping)
+        // STEP B: MANUAL STOP
         revealOdu("Manual Stop");
     }
 }
 
 /**
  * AUTO CAST HANDLER
- * Triggered when EntropyCaster detects a physical drop impact
  */
 function handleAutoCast() {
     if (isCasting) {
@@ -76,44 +75,49 @@ function handleAutoCast() {
 
 /**
  * REVEAL LOGIC
- * Calculates result, fetches data, and updates UI
  */
 async function revealOdu(method) {
     console.log(`Casting via: ${method}`);
     
-    // 1. Get the Seed (The Random Number)
-    const seed = caster.stopAndCast(); // Returns 0-255
+    // 1. Play Sound Effect
+    sfx.playDrop();
+
+    // 2. Get the Seed (The Random Number)
+    const seed = caster.stopAndCast(); 
     isCasting = false;
 
-    // 2. Identify the Odu
+    // 3. Identify the Odu
     const profile = mapper.getOduProfile(seed);
     console.log("Odu Profile:", profile);
 
-    // 3. Render the Chain Visuals (Open/Closed Seeds)
+    // --- BUG CHECK: OYEKU MEJI (Index 0) ---
+    // Explicitly logging this to ensure 0 is handled as a valid number, not False.
+    if (profile.index === 0) {
+        console.info("🌑 OYEKU MEJI DETECTED (Index 0). Handling zero-index logic...");
+    }
+
+    // 4. Render the Chain Visuals
     renderChainVisuals(profile.visuals);
 
-    // 4. Update Text & Transition
+    // 5. Update Text & Transition
     ui.oduTitle.innerText = profile.name;
     ui.instruction.innerText = "";
     ui.instruction.style.opacity = "0";
     
-    // 5. Fetch Content from Database
+    // 6. Fetch Content
     await loadVerseContent(profile.index);
 
-    // 6. Trigger Animation State (Slide up parchment)
+    // 7. Trigger Animation State
     setTimeout(() => {
         ui.container.classList.add('state-reading');
-        ui.opon.style.transform = ""; // Reset scale
-    }, 600); // Slight delay for dramatic effect
+        ui.opon.style.transform = ""; 
+    }, 600); 
 }
 
 /**
  * VISUAL RENDERER
- * Dynamically builds the HTML for the Opele seeds
  */
 function renderChainVisuals(visuals) {
-    // Visuals structure: { right: ['open', 'closed'...], left: [...] }
-    
     const rightLegHTML = visuals.right.map(state => 
         `<div class="seed" data-state="${state}"></div>`
     ).join('');
@@ -130,7 +134,6 @@ function renderChainVisuals(visuals) {
 
 /**
  * CONTENT FETCHER
- * Loads JSON data
  */
 async function loadVerseContent(oduIndex) {
     ui.verseContainer.innerHTML = "<p style='text-align:center;'>Consulting the oracle...</p>";
@@ -139,11 +142,11 @@ async function loadVerseContent(oduIndex) {
         const response = await fetch('./src/data/odu_database.json');
         const data = await response.json();
         
-        // Find the matching Odu
+        // .find() works correctly with 0 because strict equality (0 === 0) is true
         const oduData = data.find(item => item.index === oduIndex);
 
         if (oduData && oduData.verses.length > 0) {
-            const verse = oduData.verses[0]; // Just showing first verse for MVP
+            const verse = oduData.verses[0]; 
             
             ui.verseContainer.innerHTML = `
                 <div class="verse-yoruba">"${verse.chant_yoruba}"</div>
@@ -154,13 +157,12 @@ async function loadVerseContent(oduIndex) {
                 <p><strong>Prescription:</strong> ${verse.prescription}</p>
             `;
             
-            // Update Title with Alias if available
             if(oduData.alias) {
                 ui.oduTitle.innerHTML += `<br><span style="font-size: 1rem; opacity: 0.8;">(${oduData.alias[0]})</span>`;
             }
 
         } else {
-            // Fallback if Odu isn't in JSON yet
+            // Error handling for missing data
             ui.verseContainer.innerHTML = `
                 <p style="text-align:center; color: #888;">
                     The verse for this Odu (Index: ${oduIndex}) is not yet in the library.
@@ -178,12 +180,9 @@ async function loadVerseContent(oduIndex) {
 
 /**
  * RESET HANDLER
- * Return to main screen
  */
 function handleReset(e) {
-    // Only reset if we clicked the header area while in reading mode
     if (ui.container.classList.contains('state-reading')) {
-        // Check if click target is NOT the parchment (prevent accidental close while reading)
         if (!e.target.closest('.scroll-panel')) {
             ui.container.classList.remove('state-reading');
             ui.instruction.innerText = "SHAKE OR TAP TO CAST";
