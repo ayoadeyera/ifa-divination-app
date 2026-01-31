@@ -1,0 +1,74 @@
+[
+  {
+    "index": 255,
+    "name": "Eji Ogbe",
+    "alias": ["Ogbe Meji", "The King of Odu"],
+    "rank": 1,
+    "binary_code": "11111111",
+    "nature": "Open/Light/Expansion",
+    "icon_class": "odu-eji-ogbe",
+    "verses": [
+      {
+        "id": "ogbe-1",
+        "chant_yoruba": "Eji Ogbe dakun, mo wa gbe o. O nini, o nini, o nini...",
+        "translation": "Eji Ogbe please, I have come to praise you. The possessor of all things...",
+        "message": "This Odu signifies absolute victory, light, and awakening. The client is entering a period of unhindered success.",
+        "prescription": "Offer water and kolanut to Ori (Destiny)."
+      }
+    ]
+  },
+  {
+    "index": 0,
+    "name": "Oyeku Meji",
+    "alias": ["The Mother of Odu"],
+    "rank": 2,
+    "binary_code": "00000000",
+    "nature": "Closed/Darkness/Ancestral",
+    "icon_class": "odu-oyeku-meji",
+    "verses": [
+      {
+        "id": "oyeku-1",
+        "chant_yoruba": "Oyeku yeku, oye oye...",
+        "translation": "Darkness swirls, but wisdom prevents death...",
+        "message": "This Odu warns of endings or separation but offers strong protection if the ancestors are appeased.",
+        "prescription": "Feed the Elders of the Night (Iyaami) and seek ancestral blessings."
+      }
+    ]
+  },
+  {
+    "index": 102,
+    "name": "Iwori Meji",
+    "alias": ["The Hyena"],
+    "rank": 3,
+    "binary_code": "01100110",
+    "nature": "Transformation/Examination",
+    "icon_class": "odu-iwori-meji",
+    "verses": [
+      {
+        "id": "iwori-1",
+        "chant_yoruba": "Iwori, Iwori, a gba a...",
+        "translation": "Iwori cuts through the confusion...",
+        "message": "A time of careful examination. Things are not what they seem. Look deeper before making a decision.",
+        "prescription": "Use Shea Butter (Ori) to cool the head."
+      }
+    ]
+  },
+  {
+    "index": 153,
+    "name": "Odi Meji",
+    "alias": ["The Wall"],
+    "rank": 4,
+    "binary_code": "10011001",
+    "nature": "Protection/Barriers/Fertility",
+    "icon_class": "odu-odi-meji",
+    "verses": [
+      {
+        "id": "odi-1",
+        "chant_yoruba": "Odi di, Odi di...",
+        "translation": "The wall stands firm...",
+        "message": "This Odu speaks of strong protection and fertility. Your boundaries are secure, but ensure you do not isolate yourself.",
+        "prescription": "Offerings to Esu are vital to open the gate."
+      }
+    ]
+  }
+]
