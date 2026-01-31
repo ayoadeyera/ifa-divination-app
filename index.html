@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Ifa Divination App</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="src/styles/main.css">
+    <link rel="stylesheet" href="src/styles/shrine.css">
+    <link rel="stylesheet" href="src/styles/panel.css">
+
+    <style>
+        /* Temporary embedded CSS for visual debugging until you create the CSS files */
+        body { margin: 0; background-color: #0f0b08; overflow: hidden; font-family: 'Lato', sans-serif; }
+        #app-container { position: relative; height: 100vh; width: 100vw; }
+        
+        /* The "Mat" Background */
+        .mat-background {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: radial-gradient(circle, #2c241b 0%, #000000 100%);
+            z-index: 1;
+        }
+
+        /* The "Shrine" Layer */
+        .shrine-header {
+            position: relative; z-index: 2; height: 100%;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            transition: all 0.8s ease-in-out;
+        }
+
+        /* The Tray (Placeholder Circle) */
+        .opon-ifa {
+            width: 320px; height: 320px;
+            background-color: #463018; /* Wood color placeholder */
+            border-radius: 50%;
+            border: 8px solid #2a1b0d;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.8);
+            display: flex; justify-content: center; align-items: center;
+            position: relative;
+        }
+
+        /* The Chain Container */
+        .opele-chain {
+            display: flex; flex-direction: column; gap: 5px;
+            align-items: center;
+        }
+        
+        /* Simple Visual Representation of Legs */
+        .chain-legs { display: flex; gap: 40px; }
+        .leg { display: flex; flex-direction: column; gap: 8px; }
+        .seed-placeholder { width: 30px; height: 20px; background: #cbb486; border-radius: 10px; }
+
+        /* The Scroll Panel */
+        .scroll-panel {
+            position: absolute; bottom: 0; left: 0; width: 100%; height: 70vh;
+            z-index: 10;
+            transform: translateY(110%); /* Hidden initially */
+            transition: transform 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+        }
+        .parchment-texture {
+            width: 100%; height: 100%; background: #e6dcc3;
+            border-top-left-radius: 25px; border-top-right-radius: 25px;
+            padding: 30px; box-sizing: border-box;
+            box-shadow: 0 -10px 40px rgba(0,0,0,0.7);
+        }
+
+        /* State Classes */
+        .state-reading .shrine-header { height: 30vh; transform: scale(0.6); }
+        .state-reading .scroll-panel { transform: translateY(0); }
+    </style>
+</head>
+<body>
+
+    <div id="app-container">
+        
+        <div class="mat-background"></div>
+
+        <div class="shrine-header">
+            
+            <div class="opon-ifa" id="opon">
+                <div style="position:absolute; top: 10px; color: #6e4e2e;">▲</div>
+
+                <div class="opele-chain" id="opele-visuals">
+                    <div class="chain-legs">
+                        <div class="leg right-leg">
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                        </div>
+                        <div class="leg left-leg">
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                            <div class="seed-placeholder"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <p id="instruction-text" style="color: #cbb486; margin-top: 30px; letter-spacing: 2px;">
+                SHAKE OR TAP TO CAST
+            </p>
+        </div>
+
+        <div class="scroll-panel">
+            <div class="parchment-texture">
+                <h1 id="odu-name" style="font-family: 'Cinzel', serif; color: #5a2d0c; text-align: center; margin-top: 0;">
+                    Waiting...
+                </h1>
+                
+                <hr style="border: 0; border-top: 2px solid #5a2d0c; width: 50%; margin: 20px auto;">
+
+                <div id="verse-content" style="font-family: 'Crimson Text', serif; font-size: 1.2rem; line-height: 1.6; color: #2b2b2b;">
+                    <p style="text-align: center; font-style: italic;">
+                        The words of Ifa will appear here.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="module">
+        // Import your logic classes (Make sure these files exist!)
+        import { IfaEntropyCaster } from './src/lib/EntropyCaster.js';
+        import { IfaOduMapper } from './src/lib/OduMapper.js';
+
+        // --- The Controller Logic (Main.js) ---
+        
+        // 1. Initialize Classes
+        // (Commented out until you create the files, using mock for demo)
+        const caster = new IfaEntropyCaster();
+        const mapper = new IfaOduMapper();
+
+        const appContainer = document.getElementById('app-container');
+        const opon = document.getElementById('opon');
+        const oduNameElement = document.getElementById('odu-name');
+
+        // 2. Interaction Event (Click for MVP, Shake for Mobile)
+        opon.addEventListener('click', () => {
+            simulateCast();
+        });
+
+        function simulateCast() {
+            console.log("Casting...");
+            
+            // A. Trigger Animation
+            // (In real version: wait for shake to stop)
+            
+            // B. Get Random Seed (Mocking the Caster class for now)
+            const randomSeed = Math.floor(Math.random() * 256);
+            
+            // C. Get Odu Profile (Mocking the Mapper class)
+            // In real version: const profile = mapper.getOduProfile(randomSeed);
+            console.log("Seed:", randomSeed);
+
+            // D. Transition to Reading State
+            appContainer.classList.add('state-reading');
+            
+            // E. Update UI Text
+            oduNameElement.innerText = "Simulated Odu: " + randomSeed;
+            document.getElementById('instruction-text').style.opacity = '0';
+        }
+
+        // Feature: Reset when clicking the header in reading mode
+        document.querySelector('.shrine-header').addEventListener('click', () => {
+            if (appContainer.classList.contains('state-reading')) {
+                appContainer.classList.remove('state-reading');
+                document.getElementById('instruction-text').style.opacity = '1';
+                oduNameElement.innerText = "Waiting...";
+            }
+        });
+
+    </script>
+</body>
+</html>

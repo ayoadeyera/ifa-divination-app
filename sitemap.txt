@@ -1,0 +1,47 @@
+ifa-divination-app/
+│
+├── index.html/                 # Static assets (Directly accessible)
+│   ├── assets/
+│   │   ├── textures/
+│   │   │   ├── wood_opon_bg.jpg      # The carved tray texture
+│   │   │   ├── palm_mat_bg.jpg       # The background mat
+│   │   │   └── paper_grain.png       # The scroll background
+│   │   │
+│   │   ├── seeds/
+│   │   │   ├── seed_open.png         # Concave half-nut
+│   │   │   ├── seed_closed.png       # Convex half-nut
+│   │   │   └── chain_link.png        # Connector piece
+│   │   │
+│   │   ├── audio/
+│   │   │   ├── sfx/
+│   │   │   │   ├── drop_clatter_1.mp3
+│   │   │   │   ├── drop_clatter_2.mp3
+│   │   │   │   └── drop_clatter_3.mp3
+│   │   │   │
+│   │   │   └── chants/               # Future expansion
+│   │   │       ├── eji_ogbe_v1.mp3
+│   │   │       └── oyeku_meji_v1.mp3
+│   │   │
+│   │   └── icons/
+│   │       ├── app_icon.png
+│   │       └── play_btn_wood.svg
+│
+├── src/                    # The Application Logic
+│   ├── data/
+│   │   └── odu_database.json         # The JSON source of truth we designed
+│   │
+│   ├── lib/                # Pure Logic (No UI code here)
+│   │   ├── EntropyCaster.js          # The "Shake/Drop" Class
+│   │   └── OduMapper.js              # The "Binary-to-Name" Class
+│   │
+│   ├── styles/
+│   │   ├── main.css                  # Global resets & typography
+│   │   ├── shrine.css                # Opon, animations, & skeuomorphism
+│   │   └── panel.css                 # The reading scroll panel
+│   │
+│   ├── App.js              # (or main.js) The Controller (connects UI to Logic)
+│   └── index.html          # The Entry Point
+│
+├── package.json            # If using npm/yarn
+├── .gitignore
+└── README.md
