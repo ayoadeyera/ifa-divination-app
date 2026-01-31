@@ -127,57 +127,6 @@
 
     </div>
 
-    <script type="module">
-        // Import your logic classes (Make sure these files exist!)
-        import { IfaEntropyCaster } from './src/lib/EntropyCaster.js';
-        import { IfaOduMapper } from './src/lib/OduMapper.js';
-
-        // --- The Controller Logic (Main.js) ---
-        
-        // 1. Initialize Classes
-        // (Commented out until you create the files, using mock for demo)
-        const caster = new IfaEntropyCaster();
-        const mapper = new IfaOduMapper();
-
-        const appContainer = document.getElementById('app-container');
-        const opon = document.getElementById('opon');
-        const oduNameElement = document.getElementById('odu-name');
-
-        // 2. Interaction Event (Click for MVP, Shake for Mobile)
-        opon.addEventListener('click', () => {
-            simulateCast();
-        });
-
-        function simulateCast() {
-            console.log("Casting...");
-            
-            // A. Trigger Animation
-            // (In real version: wait for shake to stop)
-            
-            // B. Get Random Seed (Mocking the Caster class for now)
-            const randomSeed = Math.floor(Math.random() * 256);
-            
-            // C. Get Odu Profile (Mocking the Mapper class)
-            // In real version: const profile = mapper.getOduProfile(randomSeed);
-            console.log("Seed:", randomSeed);
-
-            // D. Transition to Reading State
-            appContainer.classList.add('state-reading');
-            
-            // E. Update UI Text
-            oduNameElement.innerText = "Simulated Odu: " + randomSeed;
-            document.getElementById('instruction-text').style.opacity = '0';
-        }
-
-        // Feature: Reset when clicking the header in reading mode
-        document.querySelector('.shrine-header').addEventListener('click', () => {
-            if (appContainer.classList.contains('state-reading')) {
-                appContainer.classList.remove('state-reading');
-                document.getElementById('instruction-text').style.opacity = '1';
-                oduNameElement.innerText = "Waiting...";
-            }
-        });
-
-    </script>
+    
 </body>
 </html>
